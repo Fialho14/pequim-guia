@@ -1,0 +1,905 @@
+{
+  "pages": [
+    {
+      "slug": "index",
+      "title": "Um semestre em Pequim.",
+      "kicker": "O teu guia de campo · 2027",
+      "description": "Do Técnico à Tsinghua. Preparar a partida, perceber a cidade e viver o semestre com curiosidade.",
+      "readMinutes": 3,
+      "sections": [
+        {
+          "title": "Um guia feito para o teu contexto",
+          "paragraphs": [
+            "Este guia apresenta um cenário de intercâmbio do Instituto Superior Técnico na Tsinghua University, na primavera de 2027. As sugestões académicas são exemplos para discutir com os coordenadores e não pressupõem admissão, bolsa ou equivalências aprovadas.",
+            "Estas 30 páginas juntam pesquisa institucional atual, decisões que precisam de confirmação e propostas práticas para uma estadia entre fevereiro e julho de 2027. Podes ler por ordem ou pesquisar um problema concreto. As fontes aparecem junto das secções e estão reunidas num diretório pesquisável."
+          ],
+          "bullets": [],
+          "sourceIds": []
+        },
+        {
+          "title": "O que resolver primeiro",
+          "paragraphs": [],
+          "bullets": [
+            "Académico: Learning Agreement, línguas das aulas, acesso a cadeiras de pós-graduação e alternativas para Compiladores.",
+            "Administrativo: nomeação, admissão, documentos de estudo e visto adequado à duração efetiva.",
+            "Vida diária: alojamento, seguro, pagamentos, número de telefone e acesso aos recursos académicos.",
+            "Experiência: mandarim básico, um clube regular, fins de semana pela cidade e viagens com margem para projetos."
+          ],
+          "sourceIds": []
+        }
+      ],
+      "takeaways": [
+        "Equivalências antes de compromissos caros.",
+        "Residência no campus é uma candidatura, não uma garantia.",
+        "O segundo semestre começa ainda com frio."
+      ],
+      "related": [
+        "antes-de-partir",
+        "estudos-ist",
+        "tsinghua"
+      ]
+    },
+    {
+      "slug": "antes-de-partir",
+      "title": "A partida começa agora.",
+      "kicker": "01 · Preparar",
+      "description": "Um plano por fases para transformar uma intenção de intercâmbio num semestre organizado.",
+      "readMinutes": 4,
+      "sections": [
+        {
+          "title": "O teu ponto de situação",
+          "paragraphs": [
+            "Separa quatro estados: candidatura ao IST, nomeação pelo IST, aceitação pela Tsinghua e autorização de entrada na China. Um resultado positivo numa etapa não conclui a seguinte. Guarda os documentos e notificações oficiais com a data em que os recebeste.",
+            "A candidatura de setembro de 2026 do Técnico decorreu de 7 a 18 de setembro. Como este guia foi preparado em 4 de outubro, confirma agora o resultado e a nomeação. A apresentação internacional Spring 2027 da Tsinghua já está publicada; a página Tsinghua explica os prazos e a diferença face ao programa de Hong Kong, Macau e Taiwan."
+          ],
+          "bullets": [],
+          "sourceIds": [
+            "ist-september"
+          ]
+        },
+        {
+          "title": "Outubro e novembro: desbloquear a parte académica",
+          "paragraphs": [
+            "Constrói uma tabela com a UC do IST, os resultados de aprendizagem, a cadeira candidata na Tsinghua, a língua, a avaliação e o responsável que aprova a equivalência. Junta programas e cargas de trabalho. A pergunta útil não é apenas “há uma cadeira parecida?”, mas “posso inscrever-me nela, compreendo as aulas e o IST aceita-a?”.",
+            "Prepara planos académicos alternativos e assinala o que falta confirmar. Uma equivalência para Compiladores precisa de discussão antecipada, incluindo a possibilidade de redistribuir cadeiras no percurso académico."
+          ],
+          "bullets": [
+            "Confirmar se a tua mobilidade é university-level ou department-level.",
+            "Pedir o contacto do coordenador académico na Tsinghua.",
+            "Verificar prova de inglês exigida antes de pagar exames.",
+            "Pedir confirmação escrita de propinas e eventual financiamento."
+          ],
+          "sourceIds": [
+            "ts-category"
+          ]
+        },
+        {
+          "title": "Dezembro e janeiro: documentos, alojamento e dinheiro",
+          "paragraphs": [
+            "Após a admissão, segue a lista de documentos enviada pelo programa. Confirma dados exatamente como aparecem no passaporte; diferenças de ordem do nome podem bloquear contas ou bilhetes. Faz cópias digitais disponíveis sem internet e leva as versões originais exigidas. Confirma visto, seguro e datas antes de comprar reservas pouco flexíveis.",
+            "Cria uma reserva financeira para dois cenários: residência atribuída e alojamento fora do campus. Um voo barato não compensa um mês de hotel improvisado. Quando abrir a candidatura à residência, acompanha o fuso horário e guarda comprovativos. Para um contrato privado, esclarece registo de morada, caução, contas e saída antecipada antes de pagar."
+          ],
+          "bullets": [],
+          "sourceIds": []
+        },
+        {
+          "title": "As duas semanas antes do voo",
+          "paragraphs": [
+            "Testa um pagamento pequeno, autenticações por SMS, acesso ao email IST e recuperação de contas. Guarda o endereço do alojamento em caracteres chineses e uma imagem com o portão correto do campus. Não dependas de conseguir instalar tudo no aeroporto. Uma eSIM de viagem pode ajudar nos primeiros dias, mas um número local pode continuar a ser necessário para serviços universitários e entregas.",
+            "Combina uma pessoa de contacto em Portugal, entrega-lhe o itinerário e acorda uma forma alternativa de comunicação. Organiza a mala de cabine para uma primeira noite independente da bagagem de porão: documentos, medicação habitual, carregador e uma camada quente."
+          ],
+          "bullets": [],
+          "sourceIds": []
+        },
+        {
+          "title": "Primeiras 72 horas: um sistema simples",
+          "paragraphs": [
+            "Reserva o primeiro dia para chegar, dormir e tratar de necessidades básicas. No seguinte, resolve registo no alojamento, instruções da universidade, cartão, rede e telefone. Depois faz uma compra pequena e um percurso de transportes de teste. Não marques uma visita longa à Muralha antes de perceberes o teu calendário de acolhimento.",
+            "Os balcões Beijing Service nos aeroportos oferecem orientação a visitantes, incluindo ajuda com comunicações e pagamentos. São um recurso útil para o arranque, mas a matrícula, as regras da residência e o estatuto de estudante continuam a exigir os serviços da universidade."
+          ],
+          "bullets": [],
+          "sourceIds": [
+            "bj-service"
+          ]
+        },
+        {
+          "title": "As perguntas que merecem resposta escrita",
+          "paragraphs": [],
+          "bullets": [
+            "Qual é o prazo final de candidatura e que documentos faltam no meu processo?",
+            "Quais cadeiras estão abertas à minha categoria e em que língua são avaliadas?",
+            "Como e até quando posso alterar o Learning Agreement?",
+            "Quando posso entrar no quarto e qual é o último dia de permanência?",
+            "Qual visto corresponde às datas oficiais e posso sair e voltar durante o semestre?",
+            "Qual seguro é obrigatório e como recebo o transcript antes de regressar?"
+          ],
+          "sourceIds": []
+        }
+      ],
+      "takeaways": [
+        "Organiza decisões por dependências.",
+        "Guarda respostas escritas dos dois coordenadores.",
+        "Faz a primeira semana leve."
+      ],
+      "related": [
+        "estudos-ist",
+        "entrada-vistos",
+        "mala-checklist"
+      ]
+    },
+    {
+      "slug": "tsinghua",
+      "title": "O teu semestre na Tsinghua.",
+      "kicker": "02 · Estudar",
+      "description": "Calendário, admissões e pontos de contacto para chegar à universidade certa, no momento certo.",
+      "readMinutes": 4,
+      "sections": [
+        {
+          "title": "Tsinghua é o contexto de trabalho",
+          "paragraphs": [
+            "O guia aborda o cenário de mobilidade bilateral entre o IST e a Tsinghua, sem garantir vagas, bolsas ou quartos. Tsinghua University, em Pequim, é diferente de National Tsing Hua University, em Taiwan; Shenzhen também tem procedimentos distintos. Confere universidade e campus nas instruções oficiais.",
+            "A página oficial non-degree distingue intercâmbio por acordos de nível universitário, programas especiais departamentais, outros visiting students e investigação. A via university-level aceita candidatos nomeados pela instituição de origem. Escolher o formulário errado pode comprometer a candidatura; usa o link indicado no email de nomeação."
+          ],
+          "bullets": [],
+          "sourceIds": [
+            "ts-category"
+          ]
+        },
+        {
+          "title": "Candidatura 2027: atenção à categoria",
+          "paragraphs": [
+            "Spring 2027 internacional: nomeação até 20/09/2026; candidatura de 15/10 a 15/11, às 17h de Pequim. O fecho é às 9h de Lisboa. Confirmar o convite individual.",
+            "A página com prazo de candidatura em 30 de outubro pertence ao programa de Hong Kong, Macau e Taiwan. Os seus prazos não devem ser confundidos com os do intercâmbio internacional. Confirma a categoria, a nomeação institucional e o convite individual; uma comunicação mais recente pode alterar o calendário geral.",
+            "Se ainda faltar confirmação de nomeação ou o link de candidatura, pede à AAI informação sobre o envio e instruções aplicáveis. O estado individual de uma candidatura só pode ser confirmado pelo IST e pela Tsinghua."
+          ],
+          "bullets": [
+            "Prioridade administrativa: confirmar nomeação e categoria com a AAI.",
+            "Usar o link que o programa te enviar; não criar uma candidatura numa categoria diferente."
+          ],
+          "sourceIds": [
+            "ts-program2027",
+            "ts-hmt-notice"
+          ]
+        },
+        {
+          "title": "As datas que já podemos verificar",
+          "paragraphs": [
+            "O calendário oficial de primavera de 2027 indica registo de estudantes concluído até 21 de fevereiro e início de aulas em 22 de fevereiro. O período de verão começa em 28 de junho. Estes marcos não são uma confirmação da tua orientação, do dia de entrada na residência ou da data do último exame.",
+            "O mesmo calendário assinala Qingming em 5 de abril, aniversário da universidade em 24–25 de abril, pausa de 30 de abril a 5 de maio e Dragon Boat em 9 de junho. A nota oficial diz que os feriados poderão ser ajustados depois do anúncio do Conselho de Estado. Usa estas datas para planear provisoriamente; confirma antes de reservar viagens."
+          ],
+          "bullets": [],
+          "sourceIds": [
+            "ts-calendar"
+          ]
+        },
+        {
+          "title": "Chegada com margem e regresso flexível",
+          "paragraphs": [
+            "Chegar alguns dias antes das aulas dá margem para adaptação, alojamento e registos. O intervalo 17–20 de fevereiro é apenas uma hipótese, dependente da abertura da residência e do acolhimento. Chegar cedo demais pode exigir hotel e coincidir com horários de férias.",
+            "Não marques um voo de regresso para 28 de junho apenas por ser o início do verão académico. A tua última obrigação pode ser um exame, uma apresentação, uma entrega de projeto ou a saída formal da residência. Confirma também por quanto tempo o visto ou título de residência te permite permanecer depois das aulas."
+          ],
+          "bullets": [],
+          "sourceIds": []
+        },
+        {
+          "title": "Quem resolve cada problema",
+          "paragraphs": [
+            "O IST decide reconhecimento académico, inscrição de origem e obrigações da mobilidade. O programa e departamento da Tsinghua decidem elegibilidade de cadeiras, horários e avaliação. O ISSC orienta estudantes internacionais na chegada e nos procedimentos locais. A administração da residência trata do quarto, pagamentos e regras do edifício.",
+            "Usa assuntos específicos nas mensagens: número de candidatura, categoria do intercâmbio, semestre e questão concreta. Um email com seis dúvidas misturadas pode circular entre serviços; separa o problema académico do visto ou do alojamento. Guarda nomes e respostas na tua pasta pessoal."
+          ],
+          "bullets": [],
+          "sourceIds": [
+            "ts-issc",
+            "ts-category"
+          ]
+        },
+        {
+          "title": "Propinas, bolsas e documentos",
+          "paragraphs": [
+            "Não coloques uma bolsa no orçamento até existir atribuição com montante e condições. Acordos gerais e anúncios de cooperação não garantem financiamento do teu semestre. Confirma igualmente a isenção de propinas na instituição de destino e quais encargos se mantêm no IST.",
+            "Prepara uma lista de documentos a partir da admissão recebida, não de um post de estudantes de outro programa: passaporte, carta de aceitação, documentação de visto de estudo, seguro e formulários exigidos. Diploma completo, HSK ou exames médicos podem ter relevância diferente num curso integral e num intercâmbio curto."
+          ],
+          "bullets": [],
+          "sourceIds": []
+        },
+        {
+          "title": "O objetivo do primeiro mês",
+          "paragraphs": [],
+          "bullets": [
+            "Estar inscrito num conjunto aprovado e realmente frequentável de cadeiras.",
+            "Saber encontrar aulas, biblioteca, cantinas, serviços e portão de entrada.",
+            "Ter pagamentos e autenticações que funcionam com redundância.",
+            "Conhecer algumas pessoas e integrar uma atividade que se repete semanalmente.",
+            "Perceber o que acontece se uma cadeira ou um quarto não estiver disponível."
+          ],
+          "sourceIds": []
+        }
+      ],
+      "takeaways": [
+        "22 de fevereiro: início de aulas publicado.",
+        "Datas de exames e acolhimento ainda dependem do programa.",
+        "Tsinghua Pequim e outros campus não são intercambiáveis."
+      ],
+      "related": [
+        "estudos-ist",
+        "vida-campus",
+        "alojamento"
+      ]
+    },
+    {
+      "slug": "estudos-ist",
+      "title": "Cadeiras, créditos e equivalências.",
+      "kicker": "03 · Estudar",
+      "description": "Uma boa viagem começa por um semestre que o Técnico consegue reconhecer.",
+      "readMinutes": 4,
+      "sections": [
+        {
+          "title": "A questão central: o teu Learning Agreement",
+          "paragraphs": [
+            "Uma carga próxima de 30 ECTS requer um plano aprovado. Compiladores, Computação Gráfica, Sistemas Distribuídos, PIC e opções são exemplos de necessidades a discutir. A aprovação depende do coordenador do IST e da oferta efetivamente acessível na Tsinghua.",
+            "Não existe neste guia uma conversão universal de créditos Tsinghua para ECTS. Compara conteúdos, trabalho autónomo, laboratórios, avaliação e nível da cadeira. Uma disciplina de três créditos pode ter um projeto exigente; uma lista com muitos títulos interessantes pode continuar a não cobrir os resultados de aprendizagem exigidos no Técnico."
+          ],
+          "bullets": [],
+          "sourceIds": []
+        },
+        {
+          "title": "Uma matriz de trabalho, não equivalências aprovadas",
+          "paragraphs": [
+            "Fundamentals of Computer Graphics (80240593) é uma candidata a explorar. A página oficial do docente Yongjin Liu identifica-a como cadeira de primavera, de pós-graduação, lecionada em inglês. Isto não confirma inscrição de alunos de licenciatura, vagas ou a edição de 2027.",
+            "Introduction to Distributed Systems (80240613), HCI, Future Internet Architecture e Deep Learning aparecem na lista oficial Graduate Courses in English de Spring 2026. Gráfica e Sistemas Distribuídos têm aí três créditos e 48 horas cada. Database Systems (40470414) surge no catálogo undergraduate de 2026 com quatro créditos e 64 horas. Esta é evidência histórica melhor do que títulos traduzidos, mas continua a faltar o catálogo final de 2027 e autorização para a tua categoria."
+          ],
+          "bullets": [],
+          "sourceIds": [
+            "ts-graphics",
+            "ts-graduate2026",
+            "ts-undergrad2026"
+          ]
+        },
+        {
+          "title": "Compiladores é a lacuna a resolver primeiro",
+          "paragraphs": [
+            "Este guia não estabelece uma substituição aprovada para Compiladores. Theory of Computation, por si só, não demonstra cobertura de análise sintática, semântica, geração de código ou implementação de um compilador. O título de uma cadeira não chega para decidir uma equivalência.",
+            "As opções a discutir são encontrar uma oferta ainda não pública, alterar o plano de mobilidade com aprovação, adiar a UC no percurso do IST ou construir outra combinação reconhecida. Não prometas resolver isto depois de chegares. Pede uma decisão explícita antes de assumires compromissos que dependem de concluir o conjunto original."
+          ],
+          "bullets": [],
+          "sourceIds": []
+        },
+        {
+          "title": "PIC, empreendedorismo e projetos",
+          "paragraphs": [
+            "O x-lab publica Establish a New Enterprise (60510102), dois créditos e seleção por equipa, e Lean Innovation Practice (00511151), um crédito, no seu bloco de primavera. São oportunidades para explorar produto, mercado e trabalho em equipa. A oferta de 2027 e a tua elegibilidade precisam de confirmação.",
+            "Para propor reconhecimento de PIC, pergunta qual entregável, dimensão de equipa, supervisão e carga de trabalho o IST exige. Uma combinação de cursos pode ser interessante, mas três créditos locais não equivalem automaticamente a seis ECTS. Guarda descrições e exemplos de avaliação para apoiar a decisão do coordenador."
+          ],
+          "bullets": [],
+          "sourceIds": [
+            "ts-xlab"
+          ]
+        },
+        {
+          "title": "Limites, vagas e cadeiras de pós-graduação",
+          "paragraphs": [
+            "A orientação pública de seleção de cursos para non-degree students refere um máximo de 20 créditos por semestre, com 12 na área principal. A própria página recomenda contacto com o coordenador. Confirma a aplicação à tua categoria e se disciplinas de outro departamento contam para o limite de major.",
+            "Constrói alternativas que não falhem todas pelo mesmo motivo. Se todas exigem acesso a pós-graduação ou chinês avançado, o plano B não tem redundância real. Pede também pré-requisitos, horários, regras de presença e datas de add/drop. Um Learning Agreement provisório precisa de sobreviver à seleção efetiva de cadeiras."
+          ],
+          "bullets": [],
+          "sourceIds": [
+            "ts-course-selection"
+          ]
+        },
+        {
+          "title": "A documentação que te poupa problemas no regresso",
+          "paragraphs": [
+            "Guarda versões datadas dos programas, confirmação de inscrição, alterações aprovadas e resultados finais. Se houver mudança de docente ou de avaliação, regista-a enquanto os contactos estão disponíveis. O transcript pode demorar; pergunta quem o emite e a que endereço será enviado.",
+            "Verifica obrigações paralelas do Técnico, como inscrição anual, propinas, comunicação de alterações e entrega de documentos de mobilidade. Os calendários não coincidem: as aulas do segundo semestre no IST começam em 8 de fevereiro de 2027, antes do início publicado na Tsinghua. Essa diferença não altera, por si só, as tuas obrigações de origem."
+          ],
+          "bullets": [],
+          "sourceIds": [
+            "ist-calendar"
+          ]
+        },
+        {
+          "title": "Matriz mínima para levar ao coordenador",
+          "paragraphs": [],
+          "bullets": [
+            "UC do IST e resultados de aprendizagem a substituir.",
+            "Código e nome da cadeira Tsinghua; semestre e nível.",
+            "Idioma de aulas, materiais, exame e trabalho de grupo.",
+            "Programa, avaliação, pré-requisitos e carga total estimada.",
+            "Elegibilidade para exchange e plano alternativo.",
+            "Aprovação do IST com data e condições explícitas."
+          ],
+          "sourceIds": []
+        }
+      ],
+      "takeaways": [
+        "Créditos locais não são ECTS por multiplicação automática.",
+        "Gráfica tem evidência de inglês; acesso em 2027 está por confirmar.",
+        "Compiladores exige uma decisão antecipada."
+      ],
+      "related": [
+        "tsinghua",
+        "antes-de-partir",
+        "vida-campus"
+      ]
+    },
+    {
+      "slug": "vida-campus",
+      "title": "Uma vida para lá das aulas.",
+      "kicker": "04 · Estudar",
+      "description": "Rotinas, amigos, clubes e tecnologia: como fazer do campus a tua base em Pequim.",
+      "readMinutes": 4,
+      "sections": [
+        {
+          "title": "Uma primeira semana funcional",
+          "paragraphs": [
+            "A tua base deve permitir dormir bem, alimentar-te facilmente e chegar às aulas sem depender de uma cadeia de aplicações ainda não configuradas. Localiza a receção da residência, supermercado, cantina, biblioteca e serviço internacional. Faz o trajeto quarto–aula de dia antes da primeira manhã com pressa.",
+            "O cartão de estudante integra funções de identificação, biblioteca e serviços do campus. Pergunta quais funcionalidades estarão ativas para a tua categoria non-degree e como carregar saldo. Guarda os contactos de apoio fora do telefone: perder o dispositivo não deve impedir-te de provar quem és ou de voltar ao quarto."
+          ],
+          "bullets": [],
+          "sourceIds": [
+            "ts-card"
+          ]
+        },
+        {
+          "title": "O mapa é útil; o portão importa mais",
+          "paragraphs": [
+            "Consulta o mapa oficial da Tsinghua e confirma os percursos, os portões abertos e o endereço do edifício de residência. Mapas antigos não garantem serviços ou acessos em 2027.",
+            "O campus ocupa uma área grande. Não decidas um alojamento pela distância à palavra “Tsinghua” no mapa: conta o portão autorizado, o edifício das aulas e a caminhada interna. Uma bicicleta pode facilitar o quotidiano, mas confirma regras de estacionamento, aquisição e segurança antes de comprar. Visitas de amigos podem precisar de procedimentos diferentes dos de alunos."
+          ],
+          "bullets": [],
+          "sourceIds": [
+            "ts-visitor"
+          ]
+        },
+        {
+          "title": "Estudar com condições",
+          "paragraphs": [
+            "A biblioteca oficial oferece reservas de lugares e salas, apoio de pesquisa e recursos digitais. Na chegada, ativa os privilégios associados ao teu cartão e testa a pesquisa e o acesso remoto autorizado. Para projetos de grupo, escolher logo uma sala regular evita perder tempo à procura de mesas.",
+            "Descarrega as ferramentas e documentação essenciais dos teus projetos antes de partir. Mantém cópias locais dos enunciados e um ambiente de desenvolvimento que funcione sem serviços externos. A experiência de rede depende de fornecedor, plataforma e políticas do produto; a página Internet explica como preparar alternativas sem prometer acesso garantido."
+          ],
+          "bullets": [],
+          "sourceIds": [
+            "ts-library"
+          ]
+        },
+        {
+          "title": "Fazer amigos exige repetição",
+          "paragraphs": [
+            "Um evento de acolhimento abre portas; uma atividade semanal cria relações. Escolhe um clube desportivo, musical, cultural ou técnico e aparece regularmente. Combina uma atividade com estudantes locais e outra com internacionais, para teres apoio prático e uma rede mais variada.",
+            "O ISSC recomenda as associações como forma de integração e indica o canal WeChat THUXSST para acompanhar atividades. Pergunta ao buddy ou coordenador quais grupos aceitam exchange students e em que língua funcionam. Não precisas de dominar mandarim para começar uma atividade com demonstração prática."
+          ],
+          "bullets": [],
+          "sourceIds": [
+            "ts-clubs"
+          ]
+        },
+        {
+          "title": "Tecnologia, investigação e empreendedorismo",
+          "paragraphs": [
+            "Estar na Tsinghua não dá acesso automático a qualquer laboratório ou empresa. Começa por seminários públicos, atividades do departamento e iniciativas do x-lab, depois aprofunda as áreas que te interessam. Para falar com investigadores, leva uma descrição breve do teu trabalho e uma pergunta concreta; networking fica mais fácil quando existe um tema comum.",
+            "Distingue participação num evento de trabalho, estágio ou investigação formal. Qualquer atividade profissional, mesmo curta, pode exigir autorização específica. Confirma com o programa e os serviços competentes antes de aceitar tarefas pagas ou compromissos externos. Não assumes que o estatuto de estudante permite trabalhar como em Portugal."
+          ],
+          "bullets": [],
+          "sourceIds": []
+        },
+        {
+          "title": "Uma semana possível",
+          "paragraphs": [
+            "Como proposta de rotina, concentra estudo profundo em blocos fixos, dois serões em clubes ou amigos e uma saída pela cidade quando o calendário permitir. Reserva uma manhã por semana para tratar de roupa, compras, contas e planeamento. Pequenas tarefas tornam-se cansativas quando ficam todas para o último dia.",
+            "Antes de viagens, termina as tarefas com prazo próximo e combina quem faz o quê nos projetos. Uma saída de fim de semana sabe melhor quando não depende de uma entrega remota à meia-noite. Mantém também domingos sem programa: um semestre não precisa de ser uma maratona de visitas."
+          ],
+          "bullets": [],
+          "sourceIds": []
+        },
+        {
+          "title": "Quando a adaptação custa",
+          "paragraphs": [
+            "Dificuldades com língua, sono, burocracia ou saudades são motivos para ajustar a rotina e pedir apoio cedo. Fala com pessoas do campus, usa os serviços de apoio que o ISSC indicar e mantém contactos regulares com Portugal. Descansar e simplificar o dia pode ser mais útil do que tentar resolver tudo com mais atividades.",
+            "A privacidade da residência também merece negociação: horários de sono, visitas, limpeza, chamadas e temperatura. Um acordo com o colega de quarto no início evita conflitos pequenos durante meses. Se um problema persistir, usa a administração da residência ou o apoio do programa."
+          ],
+          "bullets": [],
+          "sourceIds": []
+        }
+      ],
+      "takeaways": [
+        "Escolhe uma atividade semanal para criar vínculos.",
+        "Planeia pelo edifício e portão, não pelo nome do campus.",
+        "Constrói uma rotina que aguente semanas de projetos."
+      ],
+      "related": [
+        "alojamento",
+        "internet-telemovel",
+        "bairros"
+      ]
+    },
+    {
+      "slug": "itinerarios",
+      "title": "Pequim, um fim de semana de cada vez.",
+      "kicker": "26 · Explorar",
+      "description": "Planos flexíveis para conhecer a cidade ao longo de um semestre, com tempo para voltar aos lugares.",
+      "readMinutes": 4,
+      "sections": [
+        {
+          "title": "Uma proposta editorial adaptável",
+          "paragraphs": [
+            "Estes itinerários são sugestões de organização, não passeios reservados nem promessas de horários. Distribuem visitas por zonas para reduzir deslocações desde Haidian. Confirma aberturas, bilhetes, meteorologia e compromissos académicos nas páginas de cada atração.",
+            "O Eixo Central ajuda a ler a cidade: uma sequência de edifícios e espaços históricos de norte a sul, inscrita na lista UNESCO em 2024. Não precisas de o percorrer num dia. Voltar a diferentes segmentos permite perceber melhor a relação entre palácio, jardins, templos e bairros."
+          ],
+          "bullets": [],
+          "sourceIds": [
+            "bj-axis"
+          ]
+        },
+        {
+          "title": "Os primeiros dez dias: ganhar autonomia",
+          "paragraphs": [],
+          "bullets": [
+            "Dia de chegada: alojamento, refeição simples e sono. Nada que exija atravessar a cidade a uma hora marcada.",
+            "Dias de acolhimento: matrícula, telefone, cartão, seguro e seleção de cadeiras. Os procedimentos vêm primeiro.",
+            "Primeira saída curta: Wudaokou ou um bairro junto ao teu portão, com regresso antes de ficares exausto.",
+            "Primeira experiência de metro: percurso simples, confirmar o último serviço para o regresso.",
+            "Primeiro domingo livre: um parque ou café, com um colega. Evita começar pela visita mais difícil de reservar."
+          ],
+          "sourceIds": []
+        },
+        {
+          "title": "Quatro saídas urbanas para março",
+          "paragraphs": [
+            "Saída 1 — Jingshan e arredores: começa pela vista sobre os telhados, depois caminha por ruas próximas. Saída 2 — Gulou, torres e lagos de Shichahai: faz pausas e presta atenção à vida dos hutongs, sem entrar em pátios residenciais. Saída 3 — Templo do Céu: combina arquitetura com um passeio no parque. Saída 4 — um museu interior num dia frio ou de má qualidade do ar.",
+            "Não combines essas quatro zonas num único dia. Se a Cidade Proibida for uma prioridade, reserva-a para uma data com bilhete confirmado e dorme bem na véspera. À segunda-feira, consulta os fechos antes de escolher museus ou edifícios patrimoniais."
+          ],
+          "bullets": [],
+          "sourceIds": []
+        },
+        {
+          "title": "Abril e maio: jardins e Muralha",
+          "paragraphs": [
+            "Um dia no Palácio de Verão permite conhecer melhor Haidian e o ritmo dos jardins. Outro pode ser dedicado a Yuanmingyuan, sem procurar cumprir ambos à pressa. Em dias quentes, planeia pausas, água e sombra; um parque grande exige mais tempo do que um ponto num mapa sugere.",
+            "Escolhe uma secção da Muralha e uma solução de ida e regresso. Badaling, Mutianyu e Jinshanling não são alternativas logísticas equivalentes. Não juntes a Muralha a uma tarde de aulas. Cancela ou adapta se houver condições meteorológicas adversas; ter um semestre dá-te flexibilidade."
+          ],
+          "bullets": [],
+          "sourceIds": []
+        },
+        {
+          "title": "Arte, tecnologia e vida contemporânea",
+          "paragraphs": [
+            "Dedica uma tarde à arte no campus e outra ao 798, verificando exposições atuais. Se gostas de tecnologia, acompanha seminários, palestras e eventos públicos que se anunciem durante o semestre. Uma visita com um colega que conheça a área vale mais do que tentar entrar numa empresa sem convite.",
+            "Reserva uma noite para espetáculo ou música que te interesse, confirmando local, língua, bilhete e saída. Para Sanlitun ou outros bairros distantes do campus, calcula o custo e o tempo de regresso. As sugestões de locais do ano anterior são pistas; a programação de 2027 precisa de consulta própria."
+          ],
+          "bullets": [],
+          "sourceIds": []
+        },
+        {
+          "title": "Viagens de dois ou três dias",
+          "paragraphs": [
+            "Tianjin pode funcionar como primeira experiência ferroviária fora de Pequim. Datong e Xi’an requerem escolher atrações e transferes com mais cuidado. Xangai combina melhor com vários dias do que com uma viagem de ida e volta que consuma grande parte do descanso. A página Comboios detalha identidade, estações e bilhetes.",
+            "Para sair da China continental, confirma entradas autorizadas, validade de documentos e requisitos do destino antes de pagar. Hong Kong e Macau implicam saída da China continental para efeitos migratórios. Um visto com uma entrada utilizada não te dá automaticamente o direito de voltar."
+          ],
+          "bullets": [],
+          "sourceIds": []
+        },
+        {
+          "title": "Junho e regresso: fechar o semestre",
+          "paragraphs": [
+            "Deixa viagens maiores para quando o calendário de avaliações estiver realmente definido. Antes da partida, confirma transcript, saída do quarto, devolução de caução, biblioteca, cartões e continuidade de números usados em contas. Guarda contactos e ficheiros que perderão acesso quando deixares a universidade.",
+            "Revisita um lugar de que gostaste. Uma refeição com amigos ou uma caminhada no campus pode ser uma melhor última tarde do que mais uma atração. O objetivo deste plano é teres espaço para descobrir o teu próprio Pequim, sem transformar cada fim de semana numa obrigação."
+          ],
+          "bullets": [],
+          "sourceIds": []
+        }
+      ],
+      "takeaways": [
+        "Agrupa visitas por zona.",
+        "Usa o semestre para escolher dias melhores.",
+        "Viagens dependem de exames e direito de reentrada."
+      ],
+      "related": [
+        "grande-muralha",
+        "comboios-excursoes",
+        "cidade-proibida-tiananmen"
+      ]
+    },
+    {
+      "slug": "orcamento",
+      "title": "O preço do teu semestre.",
+      "kicker": "27 · Planear",
+      "description": "Um simulador transparente, com hipóteses editáveis e margem para os imprevistos.",
+      "readMinutes": 3,
+      "sections": [
+        {
+          "title": "Contar o que interessa",
+          "paragraphs": [
+            "O orçamento deve juntar despesas recorrentes, custos de instalação e uma reserva que não planeias gastar. Define primeiro datas físicas na China: chegar antes das aulas e sair depois dos exames acrescenta dias de alojamento e alimentação. Se a residência cobra por dia, o mês não é sempre igual.",
+            "O simulador abaixo é um modelo, não uma cotação. A taxa inicial de 7,60 CNY por euro é uma hipótese redonda que podes editar; não reproduz o câmbio do cartão nem prevê fevereiro de 2027. Os valores de transporte, telefone, lazer e viagens são envelopes escolhidos para planeamento. Substitui-os por propostas concretas quando existirem."
+          ],
+          "bullets": [],
+          "sourceIds": [
+            "ecb-rate"
+          ]
+        },
+        {
+          "title": "Três cenários para experimentar",
+          "paragraphs": [
+            "Campus económico: quarto triplo se atribuído, cantinas e saídas controladas. Campus confortável: quarto duplo, restaurantes e algumas viagens. Fora do campus: renda privada introduzida por ti, com caução e instalação próprias. O terceiro cenário é indispensável enquanto não tiveres residência confirmada.",
+            "Intercâmbio Spring 2027: duplos a 40 CNY/dia e triplos a 30 CNY/dia, sujeitos a reserva. Confirma atribuição e cobrança. Não se deve presumir disponibilidade de quartos individuais para esta categoria."
+          ],
+          "bullets": [],
+          "sourceIds": [
+            "ts-program2027"
+          ]
+        },
+        {
+          "title": "Não esconder os custos únicos",
+          "paragraphs": [],
+          "bullets": [
+            "Voo e bagagem: usa o preço final com ligações, malas e condições de alteração.",
+            "Visto e documentos: taxa consular, serviço, eventuais exames/traduções e deslocação ao centro.",
+            "Seguro: cobertura obrigatória e eventual proteção complementar.",
+            "Chegada: hotel de transição, transfer, roupa de cama, compras essenciais e bicicleta se fizer sentido.",
+            "Caução: dinheiro bloqueado, mesmo que esperes recuperá-lo. Não o contes como saldo disponível.",
+            "Viagens: separa transporte, cama, bilhetes e alimentação adicional."
+          ],
+          "sourceIds": []
+        },
+        {
+          "title": "Reserva de emergência e falha de pagamentos",
+          "paragraphs": [
+            "Escolhe uma reserva compatível com a possibilidade de doença, perda de telefone, cartão bloqueado ou voo urgente. Deve estar acessível por um método independente do teu pagamento quotidiano. Um saldo numa app que exige o número perdido pode ser inútil quando mais precisas.",
+            "Não incluis bolsas incertas como receita garantida. Se vierem a existir, confirma calendário de pagamento e condições de devolução. Pode ser necessário financiar as primeiras despesas antes de receberes o apoio. O simulador apresenta valores brutos para manter essa decisão explícita."
+          ],
+          "bullets": [],
+          "sourceIds": []
+        },
+        {
+          "title": "Rever sem controlar cada café",
+          "paragraphs": [
+            "Durante o primeiro mês, regista totais por categoria e compara-os com o envelope mensal. Ajusta o modelo ao teu ritmo real, sobretudo transportes tardios, refeições fora e viagens. Um orçamento simples que consultas semanalmente funciona melhor do que uma folha perfeita que abandonas.",
+            "Se ultrapassares o limite, decide onde reduzir antes de mexer em alojamento seguro, saúde ou documentos. Alternar um fim de semana de viagem com outro no campus costuma preservar tanto dinheiro como energia. Guarda comprovativos grandes; para despesas pequenas, um total semanal pode chegar."
+          ],
+          "bullets": [],
+          "sourceIds": []
+        },
+        {
+          "title": "Privacidade do simulador",
+          "paragraphs": [
+            "As preferências ficam apenas no armazenamento deste navegador. Não há conta, sincronização, base de dados remota nem envio dos valores. Podes exportar o teu plano para um ficheiro JSON e importá-lo no mesmo guia. Ao limpar os dados do navegador, perdes os valores guardados.",
+            "Usa esta ferramenta para hipóteses financeiras, sem inserir números de cartão, passaporte ou outros identificadores. Campos vazios, negativos ou inválidos devem ser corrigidos antes de interpretar o total. O resultado inclui a reserva escolhida e distingue-a das despesas previstas."
+          ],
+          "bullets": [],
+          "sourceIds": []
+        }
+      ],
+      "takeaways": [
+        "Custos recorrentes + instalação + reserva.",
+        "Alojamento é a variável mais importante.",
+        "Todos os valores do simulador são editáveis."
+      ],
+      "related": [
+        "alojamento",
+        "dinheiro-pagamentos",
+        "antes-de-partir"
+      ]
+    },
+    {
+      "slug": "mala-checklist",
+      "title": "Tudo pronto para sair.",
+      "kicker": "28 · Planear",
+      "description": "Uma checklist guardada no navegador e uma mala preparada para passar do inverno ao verão.",
+      "readMinutes": 3,
+      "sections": [
+        {
+          "title": "Uma mala para dois climas",
+          "paragraphs": [
+            "Chegar em fevereiro e permanecer até junho ou julho significa encontrar frio seco e, mais tarde, calor. Escolhe camadas combináveis: casaco quente, camisolas, base leve, impermeável compacto e roupa respirável. Sapatos confortáveis e já usados são mais úteis do que vários pares novos.",
+            "Não tentes transportar a casa inteira. Divide entre indispensável difícil de substituir — medicação, documentos e equipamento específico — e compras simples de chegada. Confirma primeiro o que o quarto inclui: roupa de cama, toalhas, utensílios e regras para aparelhos. A página Quando ir explica sazonalidade e diferenças entre média climática e previsão."
+          ],
+          "bullets": [],
+          "sourceIds": []
+        },
+        {
+          "title": "Documentos na mala de cabine",
+          "paragraphs": [],
+          "bullets": [
+            "Passaporte e autorização de entrada correspondentes à finalidade e duração.",
+            "Carta de admissão, documentos de estudo e lista oficial de matrícula.",
+            "Apólice, contactos de assistência e instruções de utilização do seguro.",
+            "Morada e portão do alojamento em chinês; reserva e contacto da receção.",
+            "Cópias dos documentos, guardadas em separado e disponíveis offline.",
+            "Prescrições e documentos exigidos para medicação; confirmar antes da viagem."
+          ],
+          "sourceIds": []
+        },
+        {
+          "title": "Equipamento que vale a pena testar",
+          "paragraphs": [
+            "Verifica a tensão admitida em cada carregador e leva um adaptador compatível com as tomadas que vais encontrar. Um adaptador muda a ficha, não transforma a tensão. Confirma as regras da companhia para baterias externas e as regras específicas de voos domésticos chineses antes de levá-las.",
+            "Leva cabos de reserva pequenos, carregador fiável e cópias de segurança do computador. Instala mapas, dicionário, ferramentas de programação e documentação que precisas para trabalhar. Guarda códigos de recuperação de autenticação de forma segura e separada do dispositivo principal."
+          ],
+          "bullets": [],
+          "sourceIds": []
+        },
+        {
+          "title": "Saúde e rotina",
+          "paragraphs": [
+            "Organiza medicação habitual em embalagem original e quantidade legalmente permitida, com documentação quando exigida. Marca consulta de medicina do viajante com antecedência suficiente. Se usas lentes ou produtos específicos, leva um arranque confortável e pesquisa onde repor.",
+            "Uma pequena bolsa de higiene, protetor solar e material que já sabes usar bastam para os primeiros dias. Não construas uma farmácia de automedicação a partir de listas online. Os cuidados adequados dependem do teu historial e das atividades previstas; usa a página Saúde como preparação de perguntas para um profissional."
+          ],
+          "bullets": [],
+          "sourceIds": []
+        },
+        {
+          "title": "Preparar Portugal para a tua ausência",
+          "paragraphs": [],
+          "bullets": [
+            "Verificar inscrição e obrigações no IST; guardar contactos do coordenador.",
+            "Confirmar validade de cartões, documentos e acesso às contas durante a ausência.",
+            "Decidir como manter o número português e receber autenticações.",
+            "Tratar de pagamentos recorrentes, correio e compromissos que vencem durante o semestre.",
+            "Fazer backup de trabalho, fotografias e documentos importantes.",
+            "Informar uma pessoa de confiança sobre plano e contactos de chegada."
+          ],
+          "sourceIds": []
+        },
+        {
+          "title": "A checklist é tua",
+          "paragraphs": [
+            "Marca as tarefas quando estiverem concluídas. As categorias cobrem académico, documentos, vida digital, saúde, alojamento e chegada. Os estados ficam guardados neste navegador e podem ser exportados juntamente com orçamento, notas e favoritos. Um item marcado confirma a tua decisão, não uma verificação automática de documentos.",
+            "Usa o campo de notas para referências de tarefas e dúvidas pendentes. Evita guardar informação sensível numa máquina partilhada. Antes do regresso, usa a segunda lista para encerrar contas e procedimentos sem esquecer o reconhecimento académico no IST."
+          ],
+          "bullets": [],
+          "sourceIds": []
+        }
+      ],
+      "takeaways": [
+        "Documentos e medicação viajam contigo.",
+        "Confirma o que o quarto inclui antes de comprar.",
+        "A checklist guarda progresso, não valida documentos."
+      ],
+      "related": [
+        "quando-ir",
+        "saude",
+        "antes-de-partir"
+      ]
+    },
+    {
+      "slug": "fontes",
+      "title": "As fontes por trás do guia.",
+      "kicker": "29 · Biblioteca",
+      "description": "Pesquisa rastreável, documentos locais e uma distinção clara entre factos e hipóteses.",
+      "readMinutes": 3,
+      "sections": [
+        {
+          "title": "Como este guia foi construído",
+          "paragraphs": [
+            "A pesquisa cobre preparativos, estudo, vida quotidiana e descoberta da cidade. As fontes prioritárias são Tsinghua e IST para questões académicas, autoridades e operadores para procedimentos, e entidades de saúde e proteção consular para riscos.",
+            "A data de consulta é 4 de outubro de 2026. “Consultada” não significa “garantida para fevereiro de 2027”: uma página pode refletir uma regra atual, um programa anterior ou informação geral. As notas identificam essas limitações. A oferta académica, residência, visto, custos e horários devem ser revistos quando receberes instruções individuais."
+          ],
+          "bullets": [],
+          "sourceIds": []
+        },
+        {
+          "title": "Três níveis de confiança",
+          "paragraphs": [],
+          "bullets": [
+            "Fonte institucional: regra ou informação publicada por quem a gere, com condições e data quando disponíveis.",
+            "Contexto a confirmar: hipótese de planeamento, informação geral ou oferta de outro período que requer confirmação para um intercâmbio específico.",
+            "Proposta de planeamento: itinerário, rotina, envelope financeiro ou recomendação editorial; não é promessa de serviço.",
+            "A página 358571 do portal Tsinghua trata Hong Kong/Macau/Taiwan; os seus prazos não foram aplicados ao programa internacional."
+          ],
+          "sourceIds": []
+        },
+        {
+          "title": "O que ainda não está fechado",
+          "paragraphs": [
+            "Não foi possível comprovar a tua admissão, atribuição de residência, bolsa, Learning Agreement aprovado ou programa final de disciplinas de Spring 2027. Não encontramos uma conversão universal Tsinghua–ECTS que se possa aplicar automaticamente. A substituição de Compiladores continua a exigir decisão académica.",
+            "As datas-base da universidade foram verificadas no calendário oficial, cuja nota admite ajustes nos feriados. As previsões meteorológicas, eventos, preços de voos e horários de 2027 não estão disponíveis de forma que permita tratá-los como garantidos. O site mantém sugestões úteis sem fabricar essas certezas."
+          ],
+          "bullets": [],
+          "sourceIds": []
+        },
+        {
+          "title": "Ler uma fonte com atenção",
+          "paragraphs": [
+            "Confere se o documento trata um visitante, aluno de curso integral, exchange, visiting researcher ou estudante de outro campus. Procura a data de publicação e condições de elegibilidade. Se dois documentos oficiais discordarem, dá prioridade à instrução recente que corresponde ao teu processo e pede esclarecimento quando a consequência for importante.",
+            "Evita abrir uma conclusão com um número descontextualizado: créditos de uma escola, tarifa de uma estação, quarto com determinada categoria ou benefício de estudante podem não se aplicar a ti. Os links neste diretório permitem consultar o texto original em vez de depender de uma frase copiada."
+          ],
+          "bullets": [],
+          "sourceIds": []
+        },
+        {
+          "title": "Documentos locais e imagens",
+          "paragraphs": [
+            "O diretório reúne fontes públicas e referências institucionais. A versão pública não inclui documentos pessoais, conversas, capturas de ecrã ou relatórios privados. As referências são apresentadas junto das secções relevantes.",
+            "A apresentação Spring 2027, os catálogos de Spring 2026 e o calendário podem ser consultados nos portais institucionais. As fotografias publicadas têm créditos e licenças abaixo; foram redimensionadas e podem ser recortadas no layout. Os links externos exigem internet."
+          ],
+          "bullets": [],
+          "sourceIds": []
+        },
+        {
+          "title": "Revisão antes da partida",
+          "paragraphs": [],
+          "bullets": [
+            "Com a nomeação: confirmar categoria e prazos do programa.",
+            "Com a admissão: confirmar visto, documentos, seguro e alojamento.",
+            "Com o catálogo do semestre: rever língua, vagas, avaliação e equivalências.",
+            "Duas semanas antes do voo: rever transportes, serviços digitais e contactos.",
+            "Antes de cada viagem: confirmar bilhetes, meteorologia e reentrada."
+          ],
+          "sourceIds": []
+        }
+      ],
+      "takeaways": [
+        "Data de pesquisa: 4 de outubro de 2026.",
+        "Fontes oficiais são lidas com as suas condições.",
+        "Hipóteses de 2027 ficam identificadas."
+      ],
+      "related": [
+        "antes-de-partir",
+        "estudos-ist",
+        "entrada-vistos"
+      ]
+    }
+  ],
+  "sources": [
+    {
+      "id": "ts-calendar",
+      "title": "Calendário oficial Tsinghua 2026/27",
+      "url": "https://www.tsinghua.edu.cn/zjqh/syxx/qhxl.htm",
+      "publisher": "Tsinghua University",
+      "checked": "2026-10-04",
+      "note": "Calendário primavera/verão 2027 lido na imagem oficial. O próprio calendário admite alterações dos feriados após decisões nacionais."
+    },
+    {
+      "id": "ts-exchange",
+      "title": "Exchange Students on University-Level Agreements",
+      "url": "https://intl-nondegree.tsinghua.edu.cn/f/yzlxs/yz_lxs_kstzb/view?id=264623",
+      "publisher": "Tsinghua University",
+      "checked": "2026-10-04",
+      "note": "Fonte institucional; reconfirmar instruções aplicáveis ao programa de intercâmbio."
+    },
+    {
+      "id": "ts-category",
+      "title": "Categorias de programas internacionais non-degree",
+      "url": "https://intl-nondegree.tsinghua.edu.cn/f/yzlxs/yz_lxs_kstzb/view?id=530062",
+      "publisher": "Tsinghua University",
+      "checked": "2026-10-04",
+      "note": "Fonte institucional; reconfirmar instruções aplicáveis ao programa de intercâmbio."
+    },
+    {
+      "id": "ist-september",
+      "title": "Candidaturas de setembro de 2026",
+      "url": "https://aai.tecnico.ulisboa.pt/nucleo-de-mobilidade-e-parcerias-internacionais/english-do-tecnico-para-o-mundo/estudos/candidaturas-out/candidaturas-de-setembro/",
+      "publisher": "AAI · Instituto Superior Técnico",
+      "checked": "2026-10-04",
+      "note": "Janela de candidatura já encerrada em 18/09/2026; não representa o prazo individual de candidatura à Tsinghua."
+    },
+    {
+      "id": "ist-calendar",
+      "title": "Calendário académico IST 2026/27",
+      "url": "https://tecnico.ulisboa.pt/pt/ensino/estudar-no-tecnico/informacoes-academicas/calendarios-academicos/",
+      "publisher": "Instituto Superior Técnico",
+      "checked": "2026-10-04",
+      "note": "Fonte institucional; reconfirmar instruções aplicáveis ao programa de intercâmbio."
+    },
+    {
+      "id": "ts-course-selection",
+      "title": "Course Selection (Withdrawal) and Result Management",
+      "url": "https://is.tsinghua.edu.cn/asdfasdf/dfadfgasq/adsfasdfq/cs.htm",
+      "publisher": "Tsinghua ISSC",
+      "checked": "2026-10-04",
+      "note": "Orientação geral non-degree; confirmar se os limites se aplicam à tua categoria."
+    },
+    {
+      "id": "ts-graphics",
+      "title": "Yongjin Liu · Teaching",
+      "url": "https://www.cs.tsinghua.edu.cn/csen/info/1306/4331.htm",
+      "publisher": "Tsinghua · Computer Science",
+      "checked": "2026-10-04",
+      "note": "Página de docente identifica Fundamentals of Computer Graphics como graduate, spring, in English. Não garante oferta, inscrição ou equivalência em 2027."
+    },
+    {
+      "id": "ts-xlab",
+      "title": "Tsinghua x-lab · Courses for Credit",
+      "url": "https://www.x-lab.tsinghua.edu.cn/xlaben/461/list.htm",
+      "publisher": "Tsinghua x-lab",
+      "checked": "2026-10-04",
+      "note": "Padrão de oferta de primavera; confirmar edição de 2027, idioma e seleção por equipas."
+    },
+    {
+      "id": "ts-library",
+      "title": "Biblioteca · serviços e recursos",
+      "url": "https://lib.tsinghua.edu.cn/en/",
+      "publisher": "Tsinghua University Library",
+      "checked": "2026-10-04",
+      "note": "Fonte institucional; reconfirmar instruções aplicáveis ao programa de intercâmbio."
+    },
+    {
+      "id": "ts-card",
+      "title": "Campus ID",
+      "url": "https://www.is.tsinghua.edu.cn/info/1170/1263.htm",
+      "publisher": "Tsinghua ISSC",
+      "checked": "2026-10-04",
+      "note": "Texto de 2021 sobre funções do cartão; detalhes operacionais podem ter sido atualizados."
+    },
+    {
+      "id": "ts-clubs",
+      "title": "Students Association",
+      "url": "https://is.tsinghua.edu.cn/asdfasdf/dfadfgasq/sa.htm",
+      "publisher": "Tsinghua ISSC",
+      "checked": "2026-10-04",
+      "note": "Fonte institucional; reconfirmar instruções aplicáveis ao programa de intercâmbio."
+    },
+    {
+      "id": "ts-visitor",
+      "title": "Campus · mapa e visitantes",
+      "url": "https://www.tsinghua.edu.cn/fk.htm",
+      "publisher": "Tsinghua University",
+      "checked": "2026-10-04",
+      "note": "Acesso de visitantes difere do acesso de aluno; confirmar o mapa institucional atual."
+    },
+    {
+      "id": "ts-issc",
+      "title": "International Students & Scholars Center",
+      "url": "https://www.is.tsinghua.edu.cn/",
+      "publisher": "Tsinghua ISSC",
+      "checked": "2026-10-04",
+      "note": "Fonte institucional; reconfirmar instruções aplicáveis ao programa de intercâmbio."
+    },
+    {
+      "id": "ecb-rate",
+      "title": "Taxas de câmbio de referência do euro",
+      "url": "https://www.ecb.europa.eu/stats/policy_and_exchange_rates/euro_reference_exchange_rates/html/index.en.html",
+      "publisher": "Banco Central Europeu",
+      "checked": "2026-10-04",
+      "note": "O simulador usa 7,60 CNY/EUR como hipótese editável, não como cotação de uma transação nem previsão de 2027."
+    },
+    {
+      "id": "bj-axis",
+      "title": "Beijing Central Axis · UNESCO",
+      "url": "https://whc.unesco.org/en/list/1714/",
+      "publisher": "UNESCO",
+      "checked": "2026-10-04",
+      "note": "Inscrição em 2024; usada para contextualizar a leitura da cidade."
+    },
+    {
+      "id": "bj-service",
+      "title": "From Arrival to Return: Guide for Foreign Visitors",
+      "url": "https://english.beijing.gov.cn/latest/news/202605/t20260507_4639364.html",
+      "publisher": "Governo de Pequim",
+      "checked": "2026-10-04",
+      "note": "Serviços oficiais de chegada; atualização de maio de 2026."
+    },
+    {
+      "id": "ts-program2027",
+      "title": "International Student Exchange Program · Spring 2027",
+      "url": "https://intl-nondegree.tsinghua.edu.cn/b/yzlxs/yz_sys_xxfjb/download/file?id=532132",
+      "publisher": "Tsinghua University",
+      "checked": "2026-10-04",
+      "note": "PDF anexado ao portal internacional university-level. pdf. Confirmar comunicação individual e nomeação."
+    },
+    {
+      "id": "ts-graduate2026",
+      "title": "Graduate Courses in English · Spring 2026",
+      "url": "https://intl-nondegree.tsinghua.edu.cn/b/yzlxs/yz_sys_xxfjb/download/file?id=501383",
+      "publisher": "Tsinghua University",
+      "checked": "2026-10-04",
+      "note": "Oferta histórica oficial em inglês, não catálogo definitivo de 2027. "
+    },
+    {
+      "id": "ts-undergrad2026",
+      "title": "Undergraduate Courses in English · Spring 2026",
+      "url": "https://intl-nondegree.tsinghua.edu.cn/b/yzlxs/yz_sys_xxfjb/download/file?id=501384",
+      "publisher": "Tsinghua University",
+      "checked": "2026-10-04",
+      "note": "Oferta histórica oficial em inglês, não garante inscrição ou equivalência em 2027."
+    },
+    {
+      "id": "ts-hmt-notice",
+      "title": "Aviso Spring 2027 para Hong Kong, Macau e Taiwan",
+      "url": "https://intl-nondegree.tsinghua.edu.cn/f/yzlxs/yz_lxs_kstzb/view?id=358571",
+      "publisher": "Tsinghua University",
+      "checked": "2026-10-04",
+      "note": "Página identificada pelo título chinês 校级港澳台. Os prazos 30/09 e 30/10 pertencem a esta categoria, não devem ser aplicados automaticamente ao estudante internacional do IST."
+    }
+  ]
+}

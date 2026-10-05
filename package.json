@@ -1,0 +1,18 @@
+{
+  "name": "pequim-guia",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "engines": { "node": ">=20" },
+  "scripts": {
+    "build": "node scripts/build.mjs",
+    "check": "node scripts/check.mjs",
+    "content": "python3 scripts/generate.py",
+    "start": "node scripts/serve.mjs --open",
+    "mobile": "node scripts/serve.mjs --lan --open",
+    "preview": "node scripts/serve.mjs --preview",
+    "mobile:allow": "node scripts/access.mjs allow",
+    "mobile:block": "node scripts/access.mjs block"
+  },
+  "dependencies": { "qrcode": "1.5.4" }
+}

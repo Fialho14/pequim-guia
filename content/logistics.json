@@ -1,0 +1,1199 @@
+{
+  "pages": [
+    {
+      "slug": "entrada-vistos",
+      "title": "Visto de estudo, entrada e reentrada",
+      "kicker": "Preparar Spring 2027",
+      "description": "O semestre do IST na Tsinghua exige documentação de estudo. Decide o visto com a admissão, conta toda a estadia e protege as viagens fora da China.",
+      "readMinutes": 4,
+      "sections": [
+        {
+          "title": "Um semestre tem regras próprias",
+          "paragraphs": [
+            "Para uma estadia de fevereiro a junho ou julho de 2027, começa pela carta de admissão e pela duração oficialmente autorizada. X1 destina-se a estudo superior a 180 dias; X2 a estudo até 180 dias. A duração provável de um semestre sugere X2, mas essa é uma hipótese de planeamento: a Tsinghua e o centro de vistos determinam o pedido adequado. Chegar várias semanas antes ou prolongar o verão pode alterar a conta."
+          ],
+          "bullets": [
+            "Não escolher o visto apenas pelo nome “exchange”.",
+            "Contar chegada, estudo, exames e partida."
+          ],
+          "sourceIds": [
+            "log-visa-types",
+            "log-lis-category"
+          ]
+        },
+        {
+          "title": "Isenção turística não resolve esta viagem",
+          "paragraphs": [
+            "A política publicada permite a portugueses com passaporte normal visitas elegíveis até 30 dias, com vigência até 31 de dezembro de 2026. O MFA exclui estudo normal da isenção, e a Tsinghua exige estatuto de estudo. Não construir a chegada de 2027 sobre uma prorrogação ainda desconhecida nem sobre uma futura conversão depois de entrar. Um passeio antes do início das aulas deve ser explicado ao ISSC dentro do itinerário real do estudante, e documentado no processo correto."
+          ],
+          "bullets": [
+            "Confirmar política em janeiro de 2027.",
+            "Guardar resposta escrita do ISSC sobre chegada antecipada."
+          ],
+          "sourceIds": [
+            "log-mfa-waiver"
+          ]
+        },
+        {
+          "title": "Pedido em Lisboa: preparar antes de pagar",
+          "paragraphs": [
+            "O folheto oficial Spring 2027 prevê emissão da admissão e do formulário de estudo no início de janeiro. Prepara o restante dossier antes, porque a janela até à partida será curta.",
+            "O processo português passou a permitir formulário e documentos online. Usa a página oficial do centro de Lisboa, seleciona a categoria indicada e segue a revisão e instruções de entrega. Confere cada ocorrência do nome, número de passaporte e datas com os documentos Tsinghua. A carta e os formulários de estudo recebidos da universidade devem permanecer disponíveis também em papel. Não marcar viagens enquanto o passaporte estiver entregue sem compreender os prazos. Taxas, recolha de impressões digitais e serviços de 2027 precisam de nova confirmação."
+          ],
+          "bullets": [
+            "Contacto centro: +351 213 540 884.",
+            "Checklist de Lisboa e instruções individuais prevalecem sobre listas de outro país.",
+            "O folheto Spring 2027 menciona exames médicos e análises: confirmar com Lisboa e ISSC quando e onde os realizar."
+          ],
+          "sourceIds": [
+            "log-lis-online",
+            "log-lis-centre",
+            "log-spring2027"
+          ]
+        },
+        {
+          "title": "Se receberes X1: relógio de 30 dias",
+          "paragraphs": [
+            "A Tsinghua indica que titulares X1 devem pedir autorização de residência dentro dos 30 dias posteriores à entrada. O procedimento envolve a universidade, passaporte, documentação de admissão e estudo, registo de alojamento e certificação de exame médico quando aplicável. Agenda o ISSC cedo: atrasos administrativos não justificam deixar o prazo terminar. Guarda comprovativos de submissão e pergunta se o passaporte fica retido, por quanto tempo e que documento permite deslocações domésticas nesse intervalo. Para X2, confirma validade, entradas e eventual procedimento específico."
+          ],
+          "bullets": [
+            "Não esperar pela última semana.",
+            "Nenhuma mudança X2 → residência é garantida antecipadamente."
+          ],
+          "sourceIds": [
+            "log-visa-procedures"
+          ]
+        },
+        {
+          "title": "Alojamento e mudanças de documento",
+          "paragraphs": [
+            "O hotel faz o registo durante o check-in; na residência universitária pede o comprovativo à receção. Fora de hotel, o estrangeiro ou anfitrião deve registar a estadia em 24 horas. Desde setembro de 2026 há serviço nacional online da NIA, mantendo o canal presencial. A Tsinghua pede atualização quando mudam endereço, passaporte ou estatuto migratório e quando se regressa do estrangeiro. Pergunta como o ISSC harmoniza estas instruções com a plataforma nacional; guarda o registo, não apenas a promessa do senhorio."
+          ],
+          "bullets": [
+            "NIA 12367 ajuda em dúvidas de imigração.",
+            "Uma reserva Airbnb não é comprovativo de registo policial."
+          ],
+          "sourceIds": [
+            "log-registration",
+            "log-visa-notes"
+          ]
+        },
+        {
+          "title": "Sair para Hong Kong, Japão ou Coreia",
+          "paragraphs": [
+            "Antes de comprar, lê o número de entradas e a validade da credencial concreta. Hong Kong e Macau implicam saída da China continental para efeitos de reentrada. Um X2 de entrada única pode tornar inviável o regresso sem nova autorização. Pergunta ao ISSC sobre viagens, extensão ou entradas adicionais e espera pelo documento aprovado. Mantém separadas três perguntas: poder entrar no destino, poder regressar à China e ter autorização académica para faltar. O cartão de chegada da NIA é uma formalidade de fronteira, não um visto."
+          ],
+          "bullets": [
+            "Fotografar visto, carimbos e autorização de residência.",
+            "Reconfirmar regras do país de destino antes de reservar."
+          ],
+          "sourceIds": [
+            "log-arrival-card",
+            "log-visa-procedures"
+          ]
+        }
+      ],
+      "takeaways": [
+        "Admissão e duração determinam X1/X2; não a vontade de viajar.",
+        "X1 exige procedimento de residência em 30 dias.",
+        "Confirmar entradas antes de qualquer saída da China continental."
+      ],
+      "related": [
+        "voos-aeroportos",
+        "internet-telemovel",
+        "comboios-excursoes"
+      ]
+    },
+    {
+      "slug": "voos-aeroportos",
+      "title": "Lisboa → Pequim → Tsinghua",
+      "kicker": "Chegar com um plano",
+      "description": "Compara o itinerário completo, distingue PEK de PKX e prepara a última etapa até ao portão e edifício certos.",
+      "readMinutes": 4,
+      "sections": [
+        {
+          "title": "Comprar o semestre, não apenas um voo",
+          "paragraphs": [
+            "Sem datas finais de exames e alojamento, compara bilhetes flexíveis, custo de alteração e regras de reembolso. A Emirates publica a rota Lisboa–PEK e a Turkish Airlines Lisboa–Pequim; são canais para pesquisar ligações, não cotações para o teu semestre. Verifica escalas, duração total, bagagem, chegada no dia seguinte e aeroporto final em cada proposta. Não assumas ligação direta Lisboa–Pequim disponível: confirma os segmentos efetivos. Para a volta, deixa margem para exames e assuntos de residência que o calendário geral não esclarece."
+          ],
+          "bullets": [
+            "Pesquisar PEK e PKX separadamente.",
+            "Comparar preço com bagagem e alteração incluídas."
+          ],
+          "sourceIds": [
+            "log-emirates",
+            "log-turkish"
+          ]
+        },
+        {
+          "title": "Bilhete único e escalas protegidas",
+          "paragraphs": [
+            "Num itinerário com vários operadores, confirma se existe uma única reserva, despacho da mala até ao destino e proteção se o primeiro voo atrasar. Compras separadas podem exigir recolher mala, imigração e novo check-in, mesmo quando a pesquisa parece uma simples escala. Consulta o operador e os requisitos do país de trânsito para o teu passaporte. Evita ligações apertadas depois de uma viagem longa. Guarda números de voo e contactos da companhia offline, e confirma assistência especial com antecedência se houver mobilidade reduzida."
+          ],
+          "bullets": [
+            "Verificar terminal em cada escala.",
+            "A franquia de bagagem depende da tarifa realmente comprada."
+          ],
+          "sourceIds": [
+            "log-emirates",
+            "log-turkish"
+          ]
+        },
+        {
+          "title": "PEK e PKX são decisões logísticas diferentes",
+          "paragraphs": [
+            "PEK é o Capital International Airport; PKX é Daxing. Confirma o código no bilhete e no transfer: a palavra “Beijing” não chega. A universidade indica táxis oficiais para primeira chegada com malas e orienta estudantes residentes em Zijing para o portão nordeste, 清华大学东北门. A porta certa depende da residência atribuída e do horário de acolhimento. Pede ao alojamento a morada e localização exata antes de sair de Portugal; não mandar o motorista apenas para “Tsinghua University”, um campus com vários acessos."
+          ],
+          "bullets": [
+            "Guardar 清华大学 e nome do edifício em chinês.",
+            "Alojamento fora do campus pode exigir outro destino."
+          ],
+          "sourceIds": [
+            "log-arrival-campus",
+            "log-pek-services"
+          ]
+        },
+        {
+          "title": "Transporte sobre carris: útil com bagagem leve",
+          "paragraphs": [
+            "O Capital Airport Express tem tarifa oficial publicada de 25 CNY e liga os terminais à rede urbana; o percurso universitário via Sanyuanqiao, linha 10 e linha 13 chega a Wudaokou. De PKX, o Daxing Airport Express chega a Caoqiao; a tabela do operador tem escalões de 10, 25 e 35 CNY, com máximo normal de 35. A continuação urbana cobra separadamente. Planeia pelo hotel ou portão, consulta mapa atual e inclui caminhada e mudanças. Um percurso teoricamente barato pode ser pesado com malas."
+          ],
+          "bullets": [
+            "Consultar último comboio da estação e sentido.",
+            "Tarifas publicadas são referência atual, não promessa 2027."
+          ],
+          "sourceIds": [
+            "log-metro-fares",
+            "log-daxing-fare"
+          ]
+        },
+        {
+          "title": "Chegada noturna e plano de contingência",
+          "paragraphs": [
+            "Se o voo chega tarde, reserva uma margem para fronteira, bagagem e ativação do telefone: aterragem não equivale a estar no metro. A página oficial do aeroporto agrega taxi, shuttle e serviços de apoio. Balcões Beijing Service orientam em SIM; não assumes todos abertos à hora do teu voo. Prepara cash e cartão, um mapa guardado e morada chinesa. Se a residência não aceitar chegada noturna, resolve uma noite de hotel elegível e a deslocação no dia seguinte antes da partida."
+          ],
+          "bullets": [
+            "Usar fila de táxi oficial ou pickup indicado na aplicação.",
+            "Combinar chegada e acesso ao dormitório com a universidade."
+          ],
+          "sourceIds": [
+            "log-pek-services",
+            "log-sim-pek"
+          ]
+        },
+        {
+          "title": "Bagagem, power bank e primeira manhã",
+          "paragraphs": [
+            "A CAAC proibiu em voos domésticos power banks sem CCC, com marca ilegível ou de modelos/lotes recolhidos desde junho de 2025. Se tens ligação interna na China, um power bank comprado em Portugal pode criar problemas; confirma regras da companhia e identificação do dispositivo antes da partida. Mantém documentos, medicação essencial, carregador e muda de roupa na cabine segundo os limites do bilhete. Na primeira manhã, evita tarefas ambiciosas: dorme, reconhece o portão e resolve comunicações e check-in antes de planear turismo."
+          ],
+          "bullets": [
+            "Verificar regras de bateria para cada segmento.",
+            "Preparar kit essencial para mala atrasada."
+          ],
+          "sourceIds": [
+            "log-caac-battery"
+          ]
+        }
+      ],
+      "takeaways": [
+        "Confirmar o código PEK/PKX no bilhete e transfer.",
+        "Morada chinesa, portão e edifício tornam a chegada mais simples.",
+        "Bagagem e mudanças de voo contam no custo real."
+      ],
+      "related": [
+        "entrada-vistos",
+        "metro-autocarros",
+        "taxis-bicicletas"
+      ]
+    },
+    {
+      "slug": "dinheiro-pagamentos",
+      "title": "Dinheiro, QR e conta de estudante",
+      "kicker": "Viver durante um semestre",
+      "description": "Um pagamento móvel bem configurado ajuda muito. Um cartão de reserva e cash tornam falhas de telemóvel ou banco recuperáveis.",
+      "readMinutes": 4,
+      "sections": [
+        {
+          "title": "Preparar duas formas de pagar",
+          "paragraphs": [
+            "Antes de partir, instala Alipay e WeChat através das lojas oficiais e tenta registo, identificação e ligação dos cartões disponíveis. O guia do Ministério do Comércio admite números estrangeiros ou chineses, com verificação do emissor e capacidades variáveis por aplicação. Não prometas que qualquer cartão português funciona em todos os QR. Leva dois cartões, idealmente de emissores diferentes, e guarda um separado do telefone. Pede ao teu banco os custos de pagamento em CNY, levantamento e contacto internacional para desbloqueio."
+          ],
+          "bullets": [
+            "Confirmar que o nome coincide com o passaporte.",
+            "Guardar contactos e meios de recuperação offline."
+          ],
+          "sourceIds": [
+            "log-mobile-payment"
+          ]
+        },
+        {
+          "title": "Pagar a um comércio é diferente de transferir",
+          "paragraphs": [
+            "Num pagamento por QR, podes ler o código do estabelecimento ou mostrar o teu código de pagamento para o comerciante ler. Verifica destinatário, montante e confirmação. Um cartão estrangeiro associado não torna automaticamente disponíveis saldo, transferências pessoais, presentes ou todos os mini-programas. Se um pagamento falhar, não insistas repetidamente sem ver se houve cobrança: mostra o estado da transação e muda de método. Para dividir despesas com colegas, combina uma solução que a tua conta suporte e mantém registos claros."
+          ],
+          "bullets": [
+            "Nunca partilhar o código de pagamento num grupo.",
+            "Confirmar cobrança antes de pagar uma segunda vez."
+          ],
+          "sourceIds": [
+            "log-mobile-payment"
+          ]
+        },
+        {
+          "title": "Comissões: ler o ecrã final em 2027",
+          "paragraphs": [
+            "O guia oficial de 2024 refere isenção da comissão da plataforma em transações até 200 CNY e 3% acima desse valor quando se utiliza cartão internacional. Trata isto como referência sujeita a atualização: podem existir campanhas, limites e exceções diferentes no teu perfil em 2027. Acrescenta a eventual comissão do banco português e a conversão cambial. Para despesas grandes, compara os métodos aceites e o custo total; não uses o câmbio do relatório antigo como orçamento fixo durante todo o semestre."
+          ],
+          "bullets": [
+            "Ler taxas no ecrã antes de confirmar.",
+            "Distinguir taxa da aplicação, do banco e câmbio."
+          ],
+          "sourceIds": [
+            "log-payment-fees"
+          ]
+        },
+        {
+          "title": "Cash e multibanco como reserva funcional",
+          "paragraphs": [
+            "O guia nacional inclui câmbio em bancos, casas de câmbio e equipamentos identificados nos pontos de entrada. Escolhe serviços identificáveis e guarda recibos quando relevantes. Uma pequena reserva de notas de renminbi evita que uma bateria vazia interrompa a refeição ou regresso. Não transportar todo o orçamento em cash nem guardar todos os cartões juntos. Ao levantar, confirma as redes indicadas, taxa e débito em CNY; usa um segundo equipamento ou banco se houver falha, sem abandonar o cartão preso sem contactar o apoio."
+          ],
+          "bullets": [
+            "RMB é a moeda; CNY é o código internacional.",
+            "Notas pequenas ajudam em transportes e pequenas compras."
+          ],
+          "sourceIds": [
+            "log-daily-guide"
+          ]
+        },
+        {
+          "title": "Bank of China e o cartão de campus",
+          "paragraphs": [
+            "A página de chegada da Tsinghua apresenta conta Bank of China ligada ao cartão IC para despesas do campus e eventuais bolsas ou reembolsos. Planeia a visita ao balcão universitário com passaporte, número chinês e documentos pedidos no teu caso. Confirma no programa exchange se a conta é obrigatória e como funciona o carregamento: pede as instruções específicas de pagamentos para estudantes non-degree. Testa uma pequena quantia antes de transferir um montante maior. Mantém a grafia e ordem dos nomes idênticas entre banco e serviços."
+          ],
+          "bullets": [
+            "Pedir instruções específicas de exchange/non-degree.",
+            "Guardar dados da conta e procedimento de fecho antes de sair."
+          ],
+          "sourceIds": [
+            "log-bank-campus"
+          ]
+        },
+        {
+          "title": "Novidades úteis e limites de experiência real",
+          "paragraphs": [
+            "GO BEIJING lançou em 2026 o Travel Wallet, apresentado como carteira para visitantes com financiamento próprio e sem necessidade de ligar cartão. Pode ser uma alternativa, mas elegibilidade, carregamento, reembolso e continuidade devem ser lidos na versão disponível à chegada. Para um semestre, não escolher um produto turístico sem comparar prazo e forma de recuperar saldo. Cria uma rotina semanal: conferir pagamentos, abastecer a reserva necessária e guardar recibos de universidade, alojamento e seguros. Se perderes o telefone, congela acesso às aplicações e cartões rapidamente."
+          ],
+          "bullets": [
+            "Promessa de produto não é teste do teu cartão.",
+            "Resolver saldo e fecho de serviços antes de regressar a Portugal."
+          ],
+          "sourceIds": [
+            "log-go-beijing"
+          ]
+        }
+      ],
+      "takeaways": [
+        "Alipay/WeChat, cartão extra e cash oferecem redundância útil.",
+        "Contas e pagamentos do campus podem ter regras próprias para exchange.",
+        "Comissões e produtos de 2026 têm de ser reconfirmados para 2027."
+      ],
+      "related": [
+        "internet-telemovel",
+        "apps",
+        "metro-autocarros"
+      ]
+    },
+    {
+      "slug": "internet-telemovel",
+      "title": "Internet, número chinês e trabalho académico",
+      "kicker": "Preparar a LEIC-A",
+      "description": "Planeia rede local, acesso institucional e recuperação de contas para que os bloqueios e a troca de SIM não interrompam aulas ou projetos.",
+      "readMinutes": 4,
+      "sections": [
+        {
+          "title": "A internet local tem restrições reais",
+          "paragraphs": [
+            "O conselho oficial britânico identifica bloqueios permanentes a Google, Facebook, YouTube e X, além de alterações temporárias a outros serviços. Confirma também a disponibilidade territorial de cada produto: conseguir uma ligação não garante elegibilidade da conta. Antes da partida, inventaria email IST, documentos, repositórios, bibliotecas, ambientes de programação e ferramentas usadas nas cadeiras. Copia materiais essenciais e valida alternativas com os docentes. Não deixar um projeto dependente de um único login que exige um serviço indisponível na rede local."
+          ],
+          "bullets": [
+            "Preparar alternativas autorizadas pelo IST/Tsinghua.",
+            "Não assumir acesso igual ao de Lisboa."
+          ],
+          "sourceIds": [
+            "log-internet"
+          ]
+        },
+        {
+          "title": "Número português mais número chinês",
+          "paragraphs": [
+            "Para um semestre, um número chinês facilita chamadas de serviços, entregas e identificação. O manual Tsinghua exige passaporte para SIM e indica número continental para processos bancários e de residência; a instrução concreta 2027 deve ser confirmada. Mantém o português ativo para códigos bancários e recuperação, com custos verificados junto da operadora. Compara pacotes locais na chegada em vez de reproduzir preços de turistas de 2025. O melhor plano depende de dados, chamadas, duração, cobertura e compatibilidade do teu equipamento."
+          ],
+          "bullets": [
+            "Saber os dois números sem depender do telemóvel.",
+            "Confirmar cancelamento e renovação automática da linha local."
+          ],
+          "sourceIds": [
+            "log-handbook"
+          ]
+        },
+        {
+          "title": "eSIM internacional não substitui uma linha local",
+          "paragraphs": [
+            "A Apple distingue eSIM de viagem de eSIM de operadora continental e assinala restrições para dispositivos comprados fora da China. Verifica o modelo exato, país de compra, desbloqueio e possibilidade de manter uma SIM física. Um pacote só de dados pode não fornecer número chinês nem SMS locais. Para roaming internacional, pede ao fornecedor informação escrita sobre cobertura, encaminhamento, hotspot, duração e política de uso justo; não assumes que todo o roaming ultrapassa todos os bloqueios. Configura a linha de dados e desliga alternância automática cara."
+          ],
+          "bullets": [
+            "Testar a instalação antes de embarcar.",
+            "Guardar QR de ativação e contactos de apoio em local seguro."
+          ],
+          "sourceIds": [
+            "log-apple-esim"
+          ]
+        },
+        {
+          "title": "Do aeroporto ao campus sem ficar incomunicável",
+          "paragraphs": [
+            "O portal municipal permite pedir SIM e recolher no Beijing Service do Capital Airport, com assistência ou encaminhamento para a operadora. A disponibilidade real depende de terminal e horário, e a oferta turística pode ser menos indicada para cinco meses. Prepara dados para a chegada, morada offline e um plano para comprar linha local depois. No balcão, pede demonstração de chamada, SMS e dados; confirma saldo, mensalidade e como recarregar. Faz o primeiro teste ainda junto do funcionário, enquanto um erro é fácil de corrigir."
+          ],
+          "bullets": [
+            "Não sair do balcão sem confirmar que SMS funciona.",
+            "Fotografar contrato e número local."
+          ],
+          "sourceIds": [
+            "log-sim-pek"
+          ]
+        },
+        {
+          "title": "Rede Tsinghua: ativação e autenticação",
+          "paragraphs": [
+            "A universidade disponibiliza acesso por LAN e Wi-Fi após ativação da conta; o portal de gestão permite consultar e desligar dispositivos. Usa as instruções recebidas no registo, comparando com ITS porque existem páginas antigas com URLs e tarifas diferentes. O manual atual indica tráfego gratuito para estudantes e até cinco dispositivos, mas confirma o teu perfil exchange em 2027. Leva adaptador Ethernet se o portátil não tiver porta, e não interpretes ausência de Internet como Wi-Fi avariado: a autenticação pode ser a etapa em falta."
+          ],
+          "bullets": [
+            "Consultar https://its.tsinghua.edu.cn para apoio.",
+            "Não instalar certificados ou perfis recebidos de desconhecidos."
+          ],
+          "sourceIds": [
+            "log-student-network",
+            "log-its",
+            "log-handbook"
+          ]
+        },
+        {
+          "title": "Contas académicas e recuperação sem stress",
+          "paragraphs": [
+            "A FAQ Tsinghua explica ativação de identidade eletrónica, associação ao número de telefone e serviços de email e cloud. Segue o pacote de admissão e mantém o email IST também operacional. Antes de trocar SIM, adiciona métodos alternativos de autenticação e guarda códigos de recuperação separados do telefone. Faz backups locais de código e documentos; testa download, autenticação e submissão das plataformas de aulas na primeira semana. Para ligações institucionais, pede canais aprovados ao suporte e aos docentes em vez de instalar uma aplicação desconhecida só porque promete desbloquear tudo."
+          ],
+          "bullets": [
+            "Ensaiar recuperação de email e banco antes de partir.",
+            "Agendar revisão de acesso após a primeira semana de aulas."
+          ],
+          "sourceIds": [
+            "log-enrolment-digital"
+          ]
+        }
+      ],
+      "takeaways": [
+        "Um número chinês e o português têm funções complementares.",
+        "eSIM de dados pode não fornecer SMS nem identidade local.",
+        "Preparar ficheiros, 2FA e plataformas académicas antes de fevereiro."
+      ],
+      "related": [
+        "apps",
+        "dinheiro-pagamentos",
+        "entrada-vistos"
+      ]
+    },
+    {
+      "slug": "apps",
+      "title": "Aplicações e contas: um kit que funciona",
+      "kicker": "Configurar antes da partida",
+      "description": "Escolhe ferramentas para cada tarefa e testa a tua conta. A instalação da aplicação é só o primeiro passo.",
+      "readMinutes": 4,
+      "sections": [
+        {
+          "title": "Começar por pagamentos e mensagens",
+          "paragraphs": [
+            "Alipay e WeChat são pontos de entrada para pagamentos, comunicação e serviços. Instala as versões oficiais, configura língua e identificação e guarda meios de recuperação. Mantém distinta a função de chat da função financeira: uma conta que envia mensagens pode ainda não conseguir pagar. Adiciona o teu número chinês quando estiver funcional sem perder acesso ao português. Dá permissões quando a tarefa as exige e revê contactos e localização depois. Para documentos, não guardar fotos do passaporte desprotegidas em grupos de colegas."
+          ],
+          "bullets": [
+            "Uma conta instalada não é uma conta verificada.",
+            "Ligar cartões e validar disponibilidade antes de depender deles."
+          ],
+          "sourceIds": [
+            "log-daily-guide"
+          ]
+        },
+        {
+          "title": "DiDi para a cidade: escolher a aplicação certa",
+          "paragraphs": [
+            "A ficha do próprio operador DiDi China anuncia interface inglesa, registo com números internacionais, mensagens traduzidas e formas de pagamento incluindo cartões estrangeiros. Instala essa versão para o continente, confirma o perfil e experimenta uma deslocação simples antes de uma ida ao aeroporto. Guarda residência e portão da universidade com o nome chinês. Compara categoria, pickup e preço apresentado antes de chamar. Saber usar mensagens traduzidas é mais útil do que esperar que o motorista fale inglês; não seguir números ou instruções de um carro diferente da encomenda."
+          ],
+          "bullets": [
+            "Verificar matrícula no ecrã e no veículo.",
+            "Não confundir aplicação de outro mercado com DiDi China."
+          ],
+          "sourceIds": [
+            "log-didi"
+          ]
+        },
+        {
+          "title": "Mapa bilingue para organizar a geografia",
+          "paragraphs": [
+            "O mapa inglês oficial de Pequim, edição 2025 publicada em 2026, inclui transportes, câmbio, SIM, atrações e serviços. Usa-o como referência de nomes e localização, e compara com a ferramenta de navegação disponível no teu telefone. Guarda em chinês portas do campus, residência, estação e hospital pretendidos. Nas apps locais, resultados com nomes iguais podem estar em bairros diferentes: valida distrito e posição no mapa. Um marcador da universidade não identifica automaticamente a entrada do dormitório. Capturas offline ajudam quando a ligação falha."
+          ],
+          "bullets": [
+            "Favoritos separados para portão, edifício e ponto de pickup.",
+            "Os horários do mapa exigem verificação no local."
+          ],
+          "sourceIds": [
+            "log-map"
+          ]
+        },
+        {
+          "title": "12306 para comboios e uma alternativa assistida",
+          "paragraphs": [
+            "12306 é o canal oficial de China Railway e possui site em inglês. Cria a conta e confirma nomes e documento antes de um fim de semana concorrido. A consulta não equivale a bilhete emitido: verifica a encomenda e guarda estação, comboio e assento. Se usares uma agência, compara preço final, condições e quem gere alterações; um pedido de compra antes de abrir a venda pode ser apenas uma tentativa futura. O Beijing Service ajuda; não cria lugares num comboio cheio."
+          ],
+          "bullets": [
+            "Usar o passaporte que constará na viagem.",
+            "Validar emissão no histórico antes de sair para a estação."
+          ],
+          "sourceIds": [
+            "log-rail-home",
+            "log-rail-help"
+          ]
+        },
+        {
+          "title": "Campus e serviços públicos têm prioridades próprias",
+          "paragraphs": [
+            "A Tsinghua fornece identidade digital e conta informacional própria; liga-as ao telefone conforme as instruções de registo. Guarda os links de aulas, ITS, biblioteca e serviços no browser, e segue contas oficiais indicadas pelo ISSC. A cidade lançou um conjunto de serviços com GO BEIJING, Jingtong em inglês, portal internacional e balcões de aeroporto. Estas ferramentas ajudam a tratar assuntos locais; não substituem o processo académico individual. Aprende os mini-programas usados pela tua escola."
+          ],
+          "bullets": [
+            "Tratar o pacote de admissão como lista principal.",
+            "Confirmar contas oficiais pelo site institucional."
+          ],
+          "sourceIds": [
+            "log-enrolment-digital",
+            "log-ecosystem"
+          ]
+        },
+        {
+          "title": "Tradução, entregas e prevenção de falhas",
+          "paragraphs": [
+            "Prepara uma ferramenta de tradução com texto, voz e imagem, verificando idiomas e capacidade offline no teu próprio aparelho. Cria notas bilingues para alergias, morada e pedido de assistência, revistas por alguém competente quando o erro tiver consequências. Para comida ou compras, confirma que a aplicação aceita o passaporte e pagamento da tua conta antes de investir muito tempo a configurar. Guarda o número local, edifício e ponto de entrega exatos. Um kit mínimo testado, com backup de documentos e contactos, vale mais no quotidiano do que uma pasta enorme de apps nunca abertas."
+          ],
+          "bullets": [
+            "Ter frases essenciais numa nota offline.",
+            "Manter endereço atualizado depois de qualquer mudança de residência."
+          ],
+          "sourceIds": []
+        }
+      ],
+      "takeaways": [
+        "Pagamentos, mapa, transporte e campus são as quatro primeiras necessidades.",
+        "Verificar conta, passaporte e cartão é tão importante como instalar.",
+        "Manter moradas chinesas e recuperação de contas offline."
+      ],
+      "related": [
+        "internet-telemovel",
+        "taxis-bicicletas",
+        "comboios-excursoes"
+      ]
+    },
+    {
+      "slug": "metro-autocarros",
+      "title": "Metro, autocarros e portas do campus",
+      "kicker": "Aprender a cidade",
+      "description": "A rede serve bem deslocações longas. O tempo até à entrada correta e a última ligação fazem parte do percurso.",
+      "readMinutes": 4,
+      "sections": [
+        {
+          "title": "Escolher a estação pelo portão",
+          "paragraphs": [
+            "A Tsinghua identifica Wudaokou na linha 13, Qinghuadongluxikou na 15 e Yuanmingyuan na 4 como acessos possíveis. Cada uma serve partes diferentes do campus: escolhe pelo edifício e não pelo nome da universidade. Faz uma primeira viagem curta, de dia e sem malas, e grava a saída que utilizaste. Um percurso com menos correspondências pode compensar mais caminhada; com chuva, frio ou fadiga pode acontecer o contrário. Para aulas e saídas sociais, mede o trajeto real porta a porta nas primeiras semanas."
+          ],
+          "bullets": [
+            "Favoritos para residência e departamentos.",
+            "Confirmar regras de acesso a cada portão."
+          ],
+          "sourceIds": [
+            "log-campus-gates"
+          ]
+        },
+        {
+          "title": "Tarifas e linhas aeroportuárias",
+          "paragraphs": [
+            "A tarifa urbana publicada começa em 3 CNY até seis quilómetros; sobe para 4 até 12, 5 até 22 e 6 até 32, acrescentando depois 1 CNY por mais 20 quilómetros. As duas linhas aeroportuárias têm regras próprias. Consulta o cálculo da tua origem/destino e não uses a tarifa mínima como preço de qualquer viagem. Os valores são os oficiais encontrados na pesquisa de outubro de 2026; podem mudar até Spring 2027. Se houver dúvida, mostra a estação final ao funcionário antes de comprar."
+          ],
+          "bullets": [
+            "Custos de aeroporto não seguem a tarifa urbana básica.",
+            "Guardar o bilhete até terminar a viagem."
+          ],
+          "sourceIds": [
+            "log-metro-fares"
+          ]
+        },
+        {
+          "title": "Cartão estrangeiro, QR ou bilhete",
+          "paragraphs": [
+            "O operador confirma acesso e compra com cartões internacionais, incluindo Visa e Mastercard, e dispositivos NFC compatíveis. Escolhe um método e usa a mesma credencial na entrada e saída: cartão físico e cartão digital podem representar tokens diferentes. Se a barreira não abrir, procura assistência em vez de experimentar sucessivamente todos os cartões e criar trajetos incompletos. Alipay oferece QR de metro após ativação da função de transporte para Pequim; bilhete unitário e balcão continuam alternativas. O teu dispositivo e emissor precisam de funcionar efetivamente."
+          ],
+          "bullets": [
+            "Preparar alternativa antes de uma deslocação importante.",
+            "Cada passageiro precisa do seu título válido."
+          ],
+          "sourceIds": [
+            "log-metro-cards",
+            "log-transport-guide"
+          ]
+        },
+        {
+          "title": "Primeiro, último e sentido certo",
+          "paragraphs": [
+            "O site oficial permite consultar horários por linha e estação. “O metro fecha às onze” não é uma regra segura: sentido, destino parcial e correspondência final podem variar. Ao sair à noite, confirma a última sequência completa até à tua estação; planeia táxi quando a ligação falha. Conta tempo para caminhar no campus, entrar na estação e passar controlo de segurança. Evita horas muito concorridas com malas e dá prioridade a quem sai da carruagem. Nomes e cores ajudam, mas verifica sempre o destino do comboio."
+          ],
+          "bullets": [
+            "Último comboio de uma linha pode não permitir a correspondência.",
+            "Guardar também um plano de regresso por carro."
+          ],
+          "sourceIds": [
+            "log-subway"
+          ]
+        },
+        {
+          "title": "Autocarros: entrada e saída podem contar",
+          "paragraphs": [
+            "Os autocarros ajudam a percorrer o último troço até a portões e bairros. O cartão de transporte distingue linhas de tarifa plana e tarifa segmentada; nestas, pode ser preciso validar ao entrar e ao sair. Observa leitores e instruções da linha, não imites apenas um passageiro. A orientação municipal admite cash com valor exato, pois motoristas não dão troco, e QR de autocarro em Alipay. Confere nome da paragem em chinês, sentido e parada final; plataformas opostas podem estar separadas por vias largas."
+          ],
+          "bullets": [
+            "Ativar QR de Bus específico de Pequim.",
+            "Levar notas/moedas pequenas para contingência."
+          ],
+          "sourceIds": [
+            "log-transport-card",
+            "log-transport-guide"
+          ]
+        },
+        {
+          "title": "Acessibilidade e cartão físico de reserva",
+          "paragraphs": [
+            "Beijing Subway publica instalações por estação, com saída, elevador, plataforma ou ajuda em escadas. Nas estações antigas, não assumir percurso sem degraus por existir símbolo na rede. Confirma as duas pontas e cada correspondência, e pede ajuda com antecedência quando necessária. Um BEIJING PASS ou cartão físico pode ser alternativa ao telefone, mas compara compra, reembolso e perda com uso de um semestre. Na chuva, neve ou calor, conta a caminhada até ao elevador correto: a saída mais próxima do mapa pode ser inacessível."
+          ],
+          "bullets": [
+            "Consultar tabela específica e funcionamento no dia.",
+            "Transportes internos do campus exigem informação própria atualizada."
+          ],
+          "sourceIds": [
+            "log-access"
+          ]
+        }
+      ],
+      "takeaways": [
+        "Escolher estação e saída pelo destino exato no campus.",
+        "Usar a mesma credencial na entrada e saída do metro.",
+        "Último comboio e acessibilidade verificam-se para cada percurso."
+      ],
+      "related": [
+        "voos-aeroportos",
+        "taxis-bicicletas",
+        "apps"
+      ]
+    },
+    {
+      "slug": "taxis-bicicletas",
+      "title": "Táxis, DiDi e bicicletas no quotidiano",
+      "kicker": "Último quilómetro e noites",
+      "description": "Carros resolvem chegadas e regressos tardios; bicicleta pode ajudar dentro e fora do campus quando conta e percurso estão preparados.",
+      "readMinutes": 4,
+      "sections": [
+        {
+          "title": "Táxi oficial: identificar e documentar",
+          "paragraphs": [
+            "Usa fila oficial de aeroporto ou paragem autorizada. A orientação municipal descreve identificação da empresa, placa, luz e taxímetro; veículos que solicitam passageiros sem esses elementos devem ser evitados. Mostra destino em chinês e confirma que é o portão certo. O custo pode incluir espera, trânsito, noite, quilómetros adicionais e portagens, pelo que um número encontrado numa página antiga não é orçamento garantido para 2027. Pede recibo e guarda matrícula caso precises de recuperar bagagem ou reclamar."
+          ],
+          "bullets": [
+            "Não entrar num carro só porque o condutor diz “taxi”.",
+            "Fotografar recibo antes de o perder."
+          ],
+          "sourceIds": [
+            "log-taxi"
+          ]
+        },
+        {
+          "title": "DiDi: o ponto de recolha é metade do trabalho",
+          "paragraphs": [
+            "A aplicação oficial anuncia inglês e comunicação traduzida, úteis para coordenar o encontro. Define pickup num local onde o carro pode parar e confere o mapa: portão, avenida e lado da rua importam. No aeroporto, segue a zona de ride-hailing indicada e confirma-a no local. Antes de entrar, compara matrícula, carro e encomenda e fornece o código de confirmação que a aplicação pedir. Guarda a rota e o preço; alteração de destino, cancelamento ou espera podem ter regras próprias."
+          ],
+          "bullets": [
+            "Não presumir cancelamento grátis em qualquer momento.",
+            "Partilhar o percurso com colega quando fizer sentido."
+          ],
+          "sourceIds": [
+            "log-didi"
+          ]
+        },
+        {
+          "title": "Escolher carro pelo contexto e acessibilidade",
+          "paragraphs": [
+            "Com muitas malas, grupo ou mobilidade reduzida, verifica a categoria e capacidade real em vez de assumir que a opção mais barata serve. Se precisas de veículo acessível, confirma equipamento e assistência previamente com o prestador ou universidade: um carro grande não equivale a adaptação para cadeira de rodas. Nos regressos de Sanlitun ou outra zona distante, separa ponto de encontro do local mais congestionado apenas quando o trajeto pedonal for seguro. Mantém bateria, endereço e reserva financeira para atravessar uma falha de dados."
+          ],
+          "bullets": [
+            "Verificar lugares, malas e equipamento necessário.",
+            "Combinar ponto de encontro antes de o grupo se separar."
+          ],
+          "sourceIds": []
+        },
+        {
+          "title": "Bicicleta partilhada: testar antes de depender",
+          "paragraphs": [
+            "A cidade descreve Meituan, Hellobike e Qingju entre as opções partilhadas. O processo normal envolve conta, telefone, leitura do QR e confirmação do fim de aluguer. Requisitos de identidade estrangeira, custos e passes devem ser verificados na app atual; um guia antigo de turista não confirma a tua conta. Testa travões, selim e pneus antes de começar e escolhe uma viagem curta. Ao devolver, estaciona na zona permitida, fecha corretamente e confirma que a cobrança terminou. Guarda a confirmação se houver disputa."
+          ],
+          "bullets": [
+            "Não desbloquear uma bicicleta danificada.",
+            "Não comprar passe mensal antes de validar identidade e percurso."
+          ],
+          "sourceIds": [
+            "log-shared-bike"
+          ]
+        },
+        {
+          "title": "Regras de estrada e bicicletas elétricas",
+          "paragraphs": [
+            "As alterações de Pequim em vigor desde maio de 2026 tornam capacete obrigatório para condutor e passageiro de bicicleta elétrica, exigem registo e proíbem usos como ver o telemóvel em andamento. Scooters e veículos de equilíbrio não são alternativas automaticamente legais na estrada. Desmonta nas passagens de peões, respeita semáforos e não entres nas vias reservadas a veículos motorizados. Baterias elétricas não podem ser levadas para edifícios residenciais segundo o aviso municipal. Para poucos meses, bicicleta convencional pode simplificar a gestão, se a tua condição e percurso permitirem."
+          ],
+          "bullets": [
+            "Parar num local seguro antes de consultar mapa.",
+            "Reconfirmar regras do campus antes de comprar uma elétrica."
+          ],
+          "sourceIds": [
+            "log-ebike"
+          ]
+        },
+        {
+          "title": "Campus, estacionamento e metro com bicicleta",
+          "paragraphs": [
+            "A universidade tem transporte interno e orientação própria sobre bicicletas/scooters. Pergunta como identificar bicicleta pessoal, onde estacionar e que serviço funciona junto da residência; horários antigos de shuttle não servem para marcar uma aula em 2027. Não bloqueies acesso, rampas ou caminhos táteis. Em 2026 houve um teste para levar bicicletas em certas linhas de metro ao fim de semana, com estações selecionadas: isto não permite entrar com bicicleta em qualquer linha. Antes de uma saída longa, verifica regra, manutenção, tempo e plano de regresso."
+          ],
+          "bullets": [
+            "Shuttle pode ajudar em dias de mau tempo ou fadiga.",
+            "Um trajeto de bicicleta precisa de alternativa quando o tempo muda."
+          ],
+          "sourceIds": [
+            "log-campus-bus",
+            "log-bikes-metro"
+          ]
+        }
+      ],
+      "takeaways": [
+        "Morada chinesa, portão e pickup preciso evitam muita fricção.",
+        "Terminar o aluguer e confirmar a cobrança faz parte de devolver bicicleta.",
+        "Bicicletas elétricas têm regras legais e de campus a cumprir."
+      ],
+      "related": [
+        "metro-autocarros",
+        "apps",
+        "voos-aeroportos"
+      ]
+    },
+    {
+      "slug": "comboios-excursoes",
+      "title": "Comboios e escapadas a partir da Tsinghua",
+      "kicker": "Explorar sem comprometer aulas",
+      "description": "Reserva com passaporte, identifica a estação e conta o percurso completo. A China acessível por comboio não cabe toda num fim de semana.",
+      "readMinutes": 4,
+      "sections": [
+        {
+          "title": "12306, identidade e emissão efetiva",
+          "paragraphs": [
+            "China Railway vende bilhetes nominativos no 12306 e aceita passaportes estrangeiros válidos na interface inglesa. Regista o documento correto e confere nome e número antes de pagar. Leva o original usado na compra: a folha de itinerário não é bilhete nem substitui identificação no controlo. Se a validação falhar, procura assistência oficial com margem. Guarda comboio, data, estação e assento numa nota offline; com grupo, verifica cada passageiro. Uma pesquisa com lugares ou pedido em espera não prova que o teu bilhete já foi emitido."
+          ],
+          "bullets": [
+            "Passaporte original sempre contigo na viagem.",
+            "Confirmar estado pago/emitido da encomenda."
+          ],
+          "sourceIds": [
+            "log-rail-faq"
+          ]
+        },
+        {
+          "title": "Janela de venda e fins de semana concorridos",
+          "paragraphs": [
+            "As regras oficiais estabelecem 15 dias de pré-venda incluindo o dia atual. Para Spring 2027, horários e tarifas concretos não estão todos disponíveis meses antes. Cria alerta para a data de abertura e define alternativas de hora, classe ou destino. Reserva o regresso juntamente com a ida quando a venda o permitir; não ficar preso longe da aula de segunda. Se uma agência aceitar pedido antecipado, lê se é bilhete garantido ou tentativa na abertura. Perante indisponibilidade, ajusta o plano antes de comprar hotel não reembolsável."
+          ],
+          "bullets": [
+            "Pré-reserva de agência pode não equivaler a bilhete.",
+            "Feriados exigem mais flexibilidade e atenção."
+          ],
+          "sourceIds": [
+            "log-rail-sale"
+          ]
+        },
+        {
+          "title": "A estação faz parte do destino",
+          "paragraphs": [
+            "Pequim tem vários terminais, e escolher só “Beijing” na navegação pode mandar-te para o lugar errado. Copia o nome exato da reserva, incluindo South, West, North, Chaoyang, Fengtai ou Qinghe quando constar. Conta caminho desde o dormitório, acesso ao metro, mudanças, inspeção e validação de passaporte. Propõe uma margem confortável na primeira viagem em vez de copiar o intervalo mínimo de outro estudante. A estação de chegada também influencia hotel e visita; numa cidade grande, um comboio mais rápido pode terminar mais longe."
+          ],
+          "bullets": [
+            "Guardar nome chinês e ponto exato da estação.",
+            "Verificar porta de embarque no painel no dia."
+          ],
+          "sourceIds": [
+            "log-rail-safety"
+          ]
+        },
+        {
+          "title": "Badaling e Tianjin como primeiras experiências",
+          "paragraphs": [
+            "Badaling, em Yanqing, é uma excursão possível para conhecer uma secção visitável da Grande Muralha; reserva atração e transporte separadamente. Não confundir nomes de estação parecidos nem assumir que qualquer bilhete “Badaling” leva à mesma entrada. Tianjin é candidata a testar comboios e uma viagem urbana curta. Existe informação oficial sobre um serviço turístico desde janeiro de 2026, mas procura serviços reais nas datas pretendidas em 2027. Compara tempo porta a porta e escolhe uma visita limitada para aprender sem transformar o primeiro passeio numa maratona."
+          ],
+          "bullets": [
+            "Bilhete de comboio não inclui necessariamente acesso à atração.",
+            "Confirmar retorno antes de iniciar o dia."
+          ],
+          "sourceIds": [
+            "log-badaling",
+            "log-tianjin"
+          ]
+        },
+        {
+          "title": "Bagagem, assistência e plano durante retenção do passaporte",
+          "paragraphs": [
+            "Consulta as regras ferroviárias de bagagem e objetos permitidos: inspeções e limitações diferem de um voo europeu. Para um fim de semana, mochila leve reduz filas e esforço nas mudanças. Há serviços de assistência em grandes estações, mas confirma local e disponibilidade para mobilidade reduzida. Durante um processo de residência, o passaporte pode estar entregue às autoridades; pede ao ISSC e à estação que confirmem se o comprovativo concreto permite compra e embarque antes de reservar. Uma fotografia do passaporte não é uma substituição universal."
+          ],
+          "bullets": [
+            "Verificar objetos restritos no portal oficial 12306.",
+            "Pedir assistência com antecedência se necessário."
+          ],
+          "sourceIds": [
+            "log-rail-safety",
+            "log-rail-help"
+          ]
+        },
+        {
+          "title": "Alterações, turismo longo e fronteiras",
+          "paragraphs": [
+            "O 12306 tem alterações e reembolso sujeitos a condições; lê o custo na encomenda antes de agir. Não assumes que perder um comboio permite entrar no seguinte automaticamente. Para cidades distantes, escolhe fim de semana prolongado só depois de saber aulas, avaliações e autorização de ausência. As viagens internacionais exigem ainda vistos do destino e reentrada na China. Mantém um orçamento para imprevistos e último transporte até ao campus. Se houver problema, apresenta reserva e documento ao pessoal ou apoio, com calma."
+          ],
+          "bullets": [
+            "Não marcar rota distante junto de entrega importante.",
+            "Confirmar reentrada antes de reservar Hong Kong ou outro país."
+          ],
+          "sourceIds": [
+            "log-rail-faq"
+          ]
+        }
+      ],
+      "takeaways": [
+        "12306, nome correto e passaporte original são a base.",
+        "A janela oficial é 15 dias; preços 2027 dependem da venda concreta.",
+        "Fim de semana mede-se porta a porta e pelo regresso às aulas."
+      ],
+      "related": [
+        "entrada-vistos",
+        "metro-autocarros",
+        "apps"
+      ]
+    }
+  ],
+  "sources": [
+    {
+      "id": "log-visa-types",
+      "title": "Tsinghua: tipos de visto de estudo",
+      "url": "https://is.tsinghua.edu.cn/vp/FIS/VT.htm",
+      "publisher": "Tsinghua ISSC",
+      "checked": "2026-10-04",
+      "note": "Regra atual de X1/X2; instruções individuais Spring 2027 ainda devem prevalecer."
+    },
+    {
+      "id": "log-visa-procedures",
+      "title": "Tsinghua: procedimentos de vistos e residência",
+      "url": "https://is.tsinghua.edu.cn/vp/FIS/VisaProcedures.htm",
+      "publisher": "Tsinghua ISSC",
+      "checked": "2026-10-04",
+      "note": "Consultado para residência, documentos, extensão e procedimentos X2; não garante aprovação individual."
+    },
+    {
+      "id": "log-visa-notes",
+      "title": "Tsinghua: pontos importantes sobre vistos",
+      "url": "https://is.tsinghua.edu.cn/info/1442/1412.htm",
+      "publisher": "Tsinghua ISSC",
+      "checked": "2026-10-04",
+      "note": "Página datada de 2021, ainda publicada; reconfirmar orientação específica 2027 e alterações nacionais mais recentes."
+    },
+    {
+      "id": "log-lis-online",
+      "title": "Embaixada em Portugal: pedido de visto chinês online",
+      "url": "https://pt.china-embassy.gov.cn/pot/lqsw/Consulate01/202503/t20250313_11574463.htm",
+      "publisher": "Embaixada da China em Portugal",
+      "checked": "2026-10-04",
+      "note": "Processo online entrou em vigor em 31/03/2025; usar portal de Lisboa atualizado."
+    },
+    {
+      "id": "log-lis-category",
+      "title": "Centro de Lisboa: categorias de visto",
+      "url": "https://biohk.visaforchina.cn/LIS4_PT/qianzhengyewu/jichuzhishi/banliliucheng",
+      "publisher": "Chinese Visa Application Service Center Lisboa",
+      "checked": "2026-10-04",
+      "note": "Categorias oficiais; checklist gerada para o pedido concreto deve ser reconfirmada."
+    },
+    {
+      "id": "log-lis-centre",
+      "title": "Centro de Vistos da China em Lisboa",
+      "url": "https://biohk.visaforchina.cn/LIS4_PT/",
+      "publisher": "Chinese Visa Application Service Center Lisboa",
+      "checked": "2026-10-04",
+      "note": "Contactos, acompanhamento e taxas; não se apresentam taxas de 2026 como garantidas para 2027."
+    },
+    {
+      "id": "log-mfa-waiver",
+      "title": "MFA: perguntas frequentes sobre entrada sem visto",
+      "url": "https://cs.mfa.gov.cn/lh/lhqz_149493/cjwd/",
+      "publisher": "Ministério dos Negócios Estrangeiros da China",
+      "checked": "2026-10-04",
+      "note": "Portugal, 30 dias e limite 31/12/2026 confirmados; trabalho e estudo não cobertos. Política 2027 não confirmada."
+    },
+    {
+      "id": "log-registration",
+      "title": "Registo online de alojamento em todo o país",
+      "url": "https://english.beijing.gov.cn/latest/news/202609/t20260923_4877803.html",
+      "publisher": "Governo de Pequim / National Immigration Administration",
+      "checked": "2026-10-04",
+      "note": "Nova implementação nacional desde 21/09/2026; mantém prazo de 24 horas e canal presencial."
+    },
+    {
+      "id": "log-arrival-card",
+      "title": "NIA: como preencher o cartão de chegada online",
+      "url": "https://en.nia.gov.cn/n147418/n147463/c195170/content.html",
+      "publisher": "National Immigration Administration",
+      "checked": "2026-10-04",
+      "note": "Guia oficial de 22/12/2025 com vídeo; consultar interface e canais oficiais antes da partida."
+    },
+    {
+      "id": "log-arrival-campus",
+      "title": "Tsinghua: chegar ao campus",
+      "url": "https://is.tsinghua.edu.cn/GettingStarted/Arrival/GettingTsinghua.htm",
+      "publisher": "Tsinghua ISSC",
+      "checked": "2026-10-04",
+      "note": "Útil para portão nordeste e trajeto via Sanyuanqiao; contém horários antigos, não tratados como atuais."
+    },
+    {
+      "id": "log-handbook",
+      "title": "Tsinghua: Campus Life Handbook",
+      "url": "https://is.tsinghua.edu.cn/Campus-Life-Handbook.pdf",
+      "publisher": "Tsinghua University",
+      "checked": "2026-10-04",
+      "note": "Manual oficial de 17 páginas indexado em 2025; distingue estudantes/scholars e avisa que non-degree pode ter pagamentos diferentes. A síntese desta pesquisa é curta por limite de fonte."
+    },
+    {
+      "id": "log-emirates",
+      "title": "Emirates: Lisboa–Pequim PEK",
+      "url": "https://www.emirates.com/pt/portuguese/destinations/lis/pek/flights-from-lisbon-to-beijing/",
+      "publisher": "Emirates",
+      "checked": "2026-10-04",
+      "note": "Página de operador consultada; horários e preços não são uma reserva nem confirmação para datas pessoais 2027."
+    },
+    {
+      "id": "log-turkish",
+      "title": "Turkish Airlines: Lisboa–Pequim",
+      "url": "https://www.turkishairlines.com/en-pt/flights-from-lisbon-to-beijing",
+      "publisher": "Turkish Airlines",
+      "checked": "2026-10-04",
+      "note": "Pesquisa oficial de rota inclui meses de 2027; disponibilidade e bagagem dependem de pesquisa datada."
+    },
+    {
+      "id": "log-pek-services",
+      "title": "Capital Airport: serviços e transporte",
+      "url": "https://www.bcia.com.cn/jcapp/index.html",
+      "publisher": "Beijing Capital International Airport",
+      "checked": "2026-10-04",
+      "note": "Menu oficial inclui táxi, shuttle, Airport Express, fronteira e serviços de pagamento; seguir informação operacional ao viajar."
+    },
+    {
+      "id": "log-daxing-fare",
+      "title": "Operador de Daxing: tarifas do Airport Express",
+      "url": "https://www.bjmoa.cn/newsInfo_7234.html",
+      "publisher": "Beijing Metro Operation Administration",
+      "checked": "2026-10-04",
+      "note": "Tabela oficial publicada em 2019 ainda consultável: escalões 10/25/35 CNY e classe business 50; reconfirmar 2027."
+    },
+    {
+      "id": "log-caac-battery",
+      "title": "CAAC: power banks em voos domésticos",
+      "url": "https://www.caac.gov.cn/English/News/202507/t20250709_227894.html",
+      "publisher": "Civil Aviation Administration of China",
+      "checked": "2026-10-04",
+      "note": "Regra desde 28/06/2025: sem marca CCC, marca ilegível ou lote/modelo recolhido proibido em voos domésticos."
+    },
+    {
+      "id": "log-mobile-payment",
+      "title": "Guia oficial: pagamentos móveis para estrangeiros",
+      "url": "https://english.beijing.gov.cn/specials/aguidetoworkingandlivinginchinaasbusinessexpatriates2024/dailylifeservices/202404/t20240424_3635122.html",
+      "publisher": "Ministério do Comércio da China",
+      "checked": "2026-10-04",
+      "note": "Cartões, registo e QR; marcas, limites e comissões dependem de cada produto e emissor."
+    },
+    {
+      "id": "log-payment-fees",
+      "title": "Guia 2024 do Ministério do Comércio: custos de pagamento",
+      "url": "https://nsd.mofcom.gov.cn/tzyts/art/2024/art_a08888d0b9da42f083b00223edaf1de7.html",
+      "publisher": "Ministério do Comércio da China",
+      "checked": "2026-10-04",
+      "note": "Referência 200 CNY/3%; condições na aplicação podem mudar até 2027, incluindo promoções temporárias."
+    },
+    {
+      "id": "log-daily-guide",
+      "title": "Guia 2025: viver e trabalhar na China",
+      "url": "https://fdi.mofcom.gov.cn/resource/pdf/wx2024/2025EN.pdf",
+      "publisher": "Ministério do Comércio da China",
+      "checked": "2026-10-04",
+      "note": "Guia oficial para cash, câmbio e serviços; não substitui regulamentos individuais de banco ou imigração."
+    },
+    {
+      "id": "log-bank-campus",
+      "title": "Tsinghua: cartão bancário à chegada",
+      "url": "https://is.tsinghua.edu.cn/GettingStarted/Arrival/BankCard.htm",
+      "publisher": "Tsinghua ISSC",
+      "checked": "2026-10-04",
+      "note": "Página recomenda Bank of China e ligação ao IC card; a obrigação e método aplicáveis a exchange/non-degree devem ser confirmados no programa."
+    },
+    {
+      "id": "log-go-beijing",
+      "title": "GO BEIJING: serviços e Travel Wallet",
+      "url": "https://english.beijing.gov.cn/specials/paymentservices/news/202604/t20260430_4624215.html",
+      "publisher": "Governo de Pequim",
+      "checked": "2026-10-04",
+      "note": "Lançamento abril 2026; não garante elegibilidade, limites ou continuidade no semestre 2027."
+    },
+    {
+      "id": "log-ecosystem",
+      "title": "Quatro plataformas oficiais para visitantes internacionais",
+      "url": "https://english.beijing.gov.cn/latest/news/202605/t20260515_4652344.html",
+      "publisher": "Governo de Pequim",
+      "checked": "2026-10-04",
+      "note": "Maio 2026: GO BEIJING, Jingtong inglês, portal internacional e balcões Beijing Service."
+    },
+    {
+      "id": "log-map",
+      "title": "Mapa inglês de Pequim: edição 2025",
+      "url": "https://english.beijing.gov.cn/travellinginbeijing/essentials/inboundtourismfacilitationmeasures/202604/t20260409_4578290.html",
+      "publisher": "Governo de Pequim / Comissão de Planeamento",
+      "checked": "2026-10-04",
+      "note": "Publicado em abril de 2026 com informação até fim 2025; horários de locais exigem reconfirmação."
+    },
+    {
+      "id": "log-sim-pek",
+      "title": "Capital Airport: pedir e recolher SIM local",
+      "url": "https://english.beijing.gov.cn/specials/beijingservice/pek/sim/",
+      "publisher": "Governo de Pequim",
+      "checked": "2026-10-04",
+      "note": "Canais oficiais de China Mobile, China Unicom e China Telecom; preços/pacotes não foram fixados para 2027."
+    },
+    {
+      "id": "log-apple-esim",
+      "title": "Apple: usar eSIM numa viagem internacional",
+      "url": "https://support.apple.com/en-ie/118227",
+      "publisher": "Apple Support",
+      "checked": "2026-10-04",
+      "note": "Distingue eSIM de viagem e eSIM de operadora da China continental; limitações dependem do modelo e país de compra."
+    },
+    {
+      "id": "log-internet",
+      "title": "Conselhos oficiais: acesso à internet na China",
+      "url": "https://www.gov.uk/foreign-travel-advice/china/safety-and-security",
+      "publisher": "UK Foreign, Commonwealth & Development Office",
+      "checked": "2026-10-04",
+      "note": "Fonte governamental estrangeira para bloqueios e licenciamento de serviços VPN; não é aconselhamento consular para cidadania portuguesa."
+    },
+    {
+      "id": "log-student-network",
+      "title": "Tsinghua: acesso à rede para estudantes",
+      "url": "https://is.tsinghua.edu.cn/asdfasdf/dfadfgasq/ITInternetq/AccessingtheInterne.htm",
+      "publisher": "Tsinghua ISSC",
+      "checked": "2026-10-04",
+      "note": "Conta, LAN, Wi-Fi e gestão; URLs de autenticação atuais devem ser comparadas com manual/orientação 2027."
+    },
+    {
+      "id": "log-enrolment-digital",
+      "title": "Tsinghua: FAQ digital de novos estudantes",
+      "url": "https://www.tsinghua.edu.cn/en/info/1346/10394.htm",
+      "publisher": "Tsinghua University",
+      "checked": "2026-10-04",
+      "note": "Identidade eletrónica, cloud e integração WeChat; sequência concreta de exchange 2027 não confirmada."
+    },
+    {
+      "id": "log-its",
+      "title": "Tsinghua: plataforma de serviços de rede",
+      "url": "https://its.tsinghua.edu.cn/1wzcycejdh_list.jsp?urltype=tree.TreeTempUrl&wbtreeid=1770",
+      "publisher": "Tsinghua Information Technology Services",
+      "checked": "2026-10-04",
+      "note": "Catálogo oficial inclui guia Tsinghua-Secure de 22/08/2024; usar apoio institucional para alterações."
+    },
+    {
+      "id": "log-didi",
+      "title": "DiDi China: página oficial da aplicação",
+      "url": "https://apps.apple.com/us/app/didi-china-ride-hailing/id554499054",
+      "publisher": "DiDi / Apple App Store",
+      "checked": "2026-10-04",
+      "note": "Descrição do próprio operador: interface inglesa, números internacionais, mensagens bilingues e cartões; não teste de conta individual."
+    },
+    {
+      "id": "log-metro-cards",
+      "title": "Pequim: cartões estrangeiros no metro",
+      "url": "https://english.beijing.gov.cn/contactus/faqs/list/202602/t20260209_4502729.html",
+      "publisher": "Governo de Pequim / Beijing Subway",
+      "checked": "2026-10-04",
+      "note": "Resposta do operador datada fevereiro 2026 sobre máquinas e acesso; sempre verificar compatibilidade da credencial usada."
+    },
+    {
+      "id": "log-metro-fares",
+      "title": "Tarifas da rede de metro de Pequim",
+      "url": "https://english.beijing.gov.cn/specials/beijinglifeonthesubway/noticeforpassengers/202504/t20250423_4072294.html",
+      "publisher": "Governo de Pequim / Beijing Subway",
+      "checked": "2026-10-04",
+      "note": "Escalões distância e Capital Airport Express 25 CNY; preços 2027 não garantidos."
+    },
+    {
+      "id": "log-subway",
+      "title": "Beijing Subway: mapa e primeiro/último comboio",
+      "url": "https://www.bjsubway.com/en/index.html",
+      "publisher": "Beijing Subway",
+      "checked": "2026-10-04",
+      "note": "Consulta por estação, sentido e linha; não usar um horário único para toda a rede."
+    },
+    {
+      "id": "log-access",
+      "title": "Beijing Subway: instalações de acessibilidade",
+      "url": "https://wenjuan.bjsubway.com/station/wzass/",
+      "publisher": "Beijing Subway",
+      "checked": "2026-10-04",
+      "note": "Tabelas específicas por estação e saída; há estações antigas com limitações, confirmar funcionamento no dia."
+    },
+    {
+      "id": "log-transport-card",
+      "title": "Cartão Yikatong: utilização em autocarros",
+      "url": "https://english.beijing.gov.cn/travellinginbeijing/transportation/202005/t20200529_1911574.html?v=jt",
+      "publisher": "Governo de Pequim / Yikatong",
+      "checked": "2026-10-04",
+      "note": "Distingue tarifa plana e segmentada; artigo antigo, não importar preço ou produto sem validação atual."
+    },
+    {
+      "id": "log-transport-guide",
+      "title": "Guia prático oficial de transportes",
+      "url": "https://english.beijing.gov.cn/latest/specials/essentialtipsfornewarrivals/transportation/202408/t20240830_3785706.html",
+      "publisher": "Governo de Pequim",
+      "checked": "2026-10-04",
+      "note": "Página atualizada contém passos para Alipay bus/metro e recolha; regras de cancelamento Didi não assumidas como universais."
+    },
+    {
+      "id": "log-campus-gates",
+      "title": "Tsinghua: transportes para vários portões",
+      "url": "https://www.tsinghua.edu.cn/en/Visitor/Campus_Information/Visitor_Parking.htm",
+      "publisher": "Tsinghua University",
+      "checked": "2026-10-04",
+      "note": "Estações linhas 4/13/15 e acessos por portão; estudante deve confirmar regras de entrada aplicáveis."
+    },
+    {
+      "id": "log-taxi",
+      "title": "Pequim: táxis licenciados e taxímetro",
+      "url": "https://english.beijing.gov.cn/livinginbeijing/Transportationlive/202005/t20200513_1895911.html",
+      "publisher": "Governo de Pequim",
+      "checked": "2026-10-04",
+      "note": "Tabela antiga disponível (2020), usada para estrutura de custos e identificação; sem garantia de orçamento 2027."
+    },
+    {
+      "id": "log-shared-bike",
+      "title": "Guia oficial de bicicletas partilhadas",
+      "url": "https://english.bjsjs.gov.cn/services/servicestransportation/202012/t20201216_35435.html",
+      "publisher": "Governo de Shijingshan / Governo de Pequim",
+      "checked": "2026-10-04",
+      "note": "Página de 2023; passos e marcas úteis, tarifas e verificação de passaporte devem ser vistas na aplicação atual."
+    },
+    {
+      "id": "log-ebike",
+      "title": "Pequim: novas regras de bicicletas elétricas",
+      "url": "https://english.beijing.gov.cn/whatson/events/Tips/202604/t20260422_4602688.html",
+      "publisher": "Governo de Pequim / Beijing Fabu",
+      "checked": "2026-10-04",
+      "note": "Alterações vigentes desde 01/05/2026: capacete elétricas, registo, uso do telemóvel e baterias."
+    },
+    {
+      "id": "log-campus-bus",
+      "title": "Tsinghua: transporte interno",
+      "url": "https://is.tsinghua.edu.cn/info/1195/1288.htm",
+      "publisher": "Tsinghua ISSC",
+      "checked": "2026-10-04",
+      "note": "Página 2021: shuttle e cautela com scooters; horários antigos, reconfirmar esquema 2027."
+    },
+    {
+      "id": "log-rail-faq",
+      "title": "China Railway 12306: FAQ inglesa",
+      "url": "https://www.12306.cn/en/faq.html?item=1",
+      "publisher": "China Railway",
+      "checked": "2026-10-04",
+      "note": "Identidade, documentos originais, alteração/reembolso, bagagem e assistência; texto contém secções antigas, conferir regra específica atual."
+    },
+    {
+      "id": "log-rail-sale",
+      "title": "China Railway: regras de venda e janela de reserva",
+      "url": "https://kyfw.12306.cn/otn/gonggao/saleTicketMeans.html",
+      "publisher": "China Railway",
+      "checked": "2026-10-04",
+      "note": "Regra oficial de 15 dias incluindo dia atual; horários e tarifas 2027 surgem apenas quando venda abre."
+    },
+    {
+      "id": "log-rail-safety",
+      "title": "China Railway: dicas de segurança e viagem",
+      "url": "https://www.12306.cn/index/view/infos/safetyTips.html",
+      "publisher": "China Railway",
+      "checked": "2026-10-04",
+      "note": "Portal oficial para controlo, bagagem, ligações e assistência; consultar detalhes do comboio e estação."
+    },
+    {
+      "id": "log-rail-help",
+      "title": "Beijing Service: apoio para bilhetes de comboio",
+      "url": "https://english.beijing.gov.cn/specials/beijingservice/pek/trafficthree/index.html",
+      "publisher": "Governo de Pequim",
+      "checked": "2026-10-04",
+      "note": "Balcões no aeroporto ajudam com 12306; assistência não implica disponibilidade de lugares."
+    },
+    {
+      "id": "log-badaling",
+      "title": "Pequim: informação oficial de Badaling",
+      "url": "https://english.beijing.gov.cn/travellinginbeijing/attractions/202603/t20260320_4562521.html",
+      "publisher": "Governo de Pequim",
+      "checked": "2026-10-04",
+      "note": "Localização e visita; estação/bilhete de comboio não substituem reserva de atração."
+    },
+    {
+      "id": "log-tianjin",
+      "title": "Ligação turística Pequim–Tianjin em 2026",
+      "url": "https://english.beijing.gov.cn/travellinginbeijing/transportation/railway/202512/t20251212_4338385.html",
+      "publisher": "Governo de Pequim / China Railway Beijing Group",
+      "checked": "2026-10-04",
+      "note": "Exemplo de serviço 2026; não pressupor operação/frequência em todos os fins de semana 2027."
+    },
+    {
+      "id": "log-bikes-metro",
+      "title": "Teste de bicicletas no metro ao fim de semana",
+      "url": "https://english.beijing.gov.cn/latest/news/202605/t20260511_4645469.html",
+      "publisher": "Governo de Pequim",
+      "checked": "2026-10-04",
+      "note": "Serviço experimental desde maio 2026 apenas linhas/estações selecionadas; não é autorização geral de bicicletas."
+    },
+    {
+      "id": "log-rail-home",
+      "title": "China Railway 12306: portal oficial inglês",
+      "url": "https://www.12306.cn/en/index.html",
+      "publisher": "China Railway",
+      "checked": "2026-10-04",
+      "note": "Portal oficial com pesquisa de comboios e área de utilizador; não é uma confirmação de horários 2027."
+    },
+    {
+      "id": "log-spring2027",
+      "title": "Tsinghua: folheto oficial de exchange Spring 2027",
+      "url": "https://intl-nondegree.tsinghua.edu.cn/b/yzlxs/yz_sys_xxfjb/download/file?id=532132",
+      "publisher": "Tsinghua University Academic Affairs Office",
+      "checked": "2026-10-04",
+      "note": "Brochure Spring2027 lido integralmente no ficheiro oficial partilhado; 36 palavras factuais usadas aqui. Exames médicos mencionados no folheto exigem harmonização com checklist Lisboa."
+    }
+  ]
+}

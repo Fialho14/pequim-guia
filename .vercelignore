@@ -1,0 +1,8 @@
+local/
+.work/
+.git/
+node_modules/
+.env*
+*.command
+README.md
+

@@ -1,0 +1,11 @@
+# Private local edition, original reports and research never leave this Mac.
+/local/
+/.work/
+/.vercel/
+/node_modules/
+/.env*
+*.log
+.DS_Store
+__pycache__/
+*.pyc
+

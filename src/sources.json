@@ -1,0 +1,1346 @@
+[
+  {
+    "id": "ts-calendar",
+    "title": "Calendário oficial Tsinghua 2026/27",
+    "url": "https://www.tsinghua.edu.cn/zjqh/syxx/qhxl.htm",
+    "publisher": "Tsinghua University",
+    "checked": "2026-10-04",
+    "note": "Calendário primavera/verão 2027 lido na imagem oficial. O próprio calendário admite alterações dos feriados após decisões nacionais."
+  },
+  {
+    "id": "ts-exchange",
+    "title": "Exchange Students on University-Level Agreements",
+    "url": "https://intl-nondegree.tsinghua.edu.cn/f/yzlxs/yz_lxs_kstzb/view?id=264623",
+    "publisher": "Tsinghua University",
+    "checked": "2026-10-04",
+    "note": "Fonte institucional; reconfirmar instruções aplicáveis ao programa de intercâmbio."
+  },
+  {
+    "id": "ts-category",
+    "title": "Categorias de programas internacionais non-degree",
+    "url": "https://intl-nondegree.tsinghua.edu.cn/f/yzlxs/yz_lxs_kstzb/view?id=530062",
+    "publisher": "Tsinghua University",
+    "checked": "2026-10-04",
+    "note": "Fonte institucional; reconfirmar instruções aplicáveis ao programa de intercâmbio."
+  },
+  {
+    "id": "ist-september",
+    "title": "Candidaturas de setembro de 2026",
+    "url": "https://aai.tecnico.ulisboa.pt/nucleo-de-mobilidade-e-parcerias-internacionais/english-do-tecnico-para-o-mundo/estudos/candidaturas-out/candidaturas-de-setembro/",
+    "publisher": "AAI · Instituto Superior Técnico",
+    "checked": "2026-10-04",
+    "note": "Janela de candidatura já encerrada em 18/09/2026; não representa o prazo individual de candidatura à Tsinghua."
+  },
+  {
+    "id": "ist-calendar",
+    "title": "Calendário académico IST 2026/27",
+    "url": "https://tecnico.ulisboa.pt/pt/ensino/estudar-no-tecnico/informacoes-academicas/calendarios-academicos/",
+    "publisher": "Instituto Superior Técnico",
+    "checked": "2026-10-04",
+    "note": "Fonte institucional; reconfirmar instruções aplicáveis ao programa de intercâmbio."
+  },
+  {
+    "id": "ts-course-selection",
+    "title": "Course Selection (Withdrawal) and Result Management",
+    "url": "https://is.tsinghua.edu.cn/asdfasdf/dfadfgasq/adsfasdfq/cs.htm",
+    "publisher": "Tsinghua ISSC",
+    "checked": "2026-10-04",
+    "note": "Orientação geral non-degree; confirmar se os limites se aplicam à tua categoria."
+  },
+  {
+    "id": "ts-graphics",
+    "title": "Yongjin Liu · Teaching",
+    "url": "https://www.cs.tsinghua.edu.cn/csen/info/1306/4331.htm",
+    "publisher": "Tsinghua · Computer Science",
+    "checked": "2026-10-04",
+    "note": "Página de docente identifica Fundamentals of Computer Graphics como graduate, spring, in English. Não garante oferta, inscrição ou equivalência em 2027."
+  },
+  {
+    "id": "ts-xlab",
+    "title": "Tsinghua x-lab · Courses for Credit",
+    "url": "https://www.x-lab.tsinghua.edu.cn/xlaben/461/list.htm",
+    "publisher": "Tsinghua x-lab",
+    "checked": "2026-10-04",
+    "note": "Padrão de oferta de primavera; confirmar edição de 2027, idioma e seleção por equipas."
+  },
+  {
+    "id": "ts-library",
+    "title": "Biblioteca · serviços e recursos",
+    "url": "https://lib.tsinghua.edu.cn/en/",
+    "publisher": "Tsinghua University Library",
+    "checked": "2026-10-04",
+    "note": "Fonte institucional; reconfirmar instruções aplicáveis ao programa de intercâmbio."
+  },
+  {
+    "id": "ts-card",
+    "title": "Campus ID",
+    "url": "https://www.is.tsinghua.edu.cn/info/1170/1263.htm",
+    "publisher": "Tsinghua ISSC",
+    "checked": "2026-10-04",
+    "note": "Texto de 2021 sobre funções do cartão; detalhes operacionais podem ter sido atualizados."
+  },
+  {
+    "id": "ts-clubs",
+    "title": "Students Association",
+    "url": "https://is.tsinghua.edu.cn/asdfasdf/dfadfgasq/sa.htm",
+    "publisher": "Tsinghua ISSC",
+    "checked": "2026-10-04",
+    "note": "Fonte institucional; reconfirmar instruções aplicáveis ao programa de intercâmbio."
+  },
+  {
+    "id": "ts-visitor",
+    "title": "Campus · mapa e visitantes",
+    "url": "https://www.tsinghua.edu.cn/fk.htm",
+    "publisher": "Tsinghua University",
+    "checked": "2026-10-04",
+    "note": "Acesso de visitantes difere do acesso de aluno; confirmar o mapa institucional atual."
+  },
+  {
+    "id": "ts-issc",
+    "title": "International Students & Scholars Center",
+    "url": "https://www.is.tsinghua.edu.cn/",
+    "publisher": "Tsinghua ISSC",
+    "checked": "2026-10-04",
+    "note": "Fonte institucional; reconfirmar instruções aplicáveis ao programa de intercâmbio."
+  },
+  {
+    "id": "ecb-rate",
+    "title": "Taxas de câmbio de referência do euro",
+    "url": "https://www.ecb.europa.eu/stats/policy_and_exchange_rates/euro_reference_exchange_rates/html/index.en.html",
+    "publisher": "Banco Central Europeu",
+    "checked": "2026-10-04",
+    "note": "O simulador usa 7,60 CNY/EUR como hipótese editável, não como cotação de uma transação nem previsão de 2027."
+  },
+  {
+    "id": "bj-axis",
+    "title": "Beijing Central Axis · UNESCO",
+    "url": "https://whc.unesco.org/en/list/1714/",
+    "publisher": "UNESCO",
+    "checked": "2026-10-04",
+    "note": "Inscrição em 2024; usada para contextualizar a leitura da cidade."
+  },
+  {
+    "id": "bj-service",
+    "title": "From Arrival to Return: Guide for Foreign Visitors",
+    "url": "https://english.beijing.gov.cn/latest/news/202605/t20260507_4639364.html",
+    "publisher": "Governo de Pequim",
+    "checked": "2026-10-04",
+    "note": "Serviços oficiais de chegada; atualização de maio de 2026."
+  },
+  {
+    "id": "ts-program2027",
+    "title": "International Student Exchange Program · Spring 2027",
+    "url": "https://intl-nondegree.tsinghua.edu.cn/b/yzlxs/yz_sys_xxfjb/download/file?id=532132",
+    "publisher": "Tsinghua University",
+    "checked": "2026-10-04",
+    "note": "PDF anexado ao portal internacional university-level. pdf. Confirmar comunicação individual e nomeação."
+  },
+  {
+    "id": "ts-graduate2026",
+    "title": "Graduate Courses in English · Spring 2026",
+    "url": "https://intl-nondegree.tsinghua.edu.cn/b/yzlxs/yz_sys_xxfjb/download/file?id=501383",
+    "publisher": "Tsinghua University",
+    "checked": "2026-10-04",
+    "note": "Oferta histórica oficial em inglês, não catálogo definitivo de 2027. "
+  },
+  {
+    "id": "ts-undergrad2026",
+    "title": "Undergraduate Courses in English · Spring 2026",
+    "url": "https://intl-nondegree.tsinghua.edu.cn/b/yzlxs/yz_sys_xxfjb/download/file?id=501384",
+    "publisher": "Tsinghua University",
+    "checked": "2026-10-04",
+    "note": "Oferta histórica oficial em inglês, não garante inscrição ou equivalência em 2027."
+  },
+  {
+    "id": "ts-hmt-notice",
+    "title": "Aviso Spring 2027 para Hong Kong, Macau e Taiwan",
+    "url": "https://intl-nondegree.tsinghua.edu.cn/f/yzlxs/yz_lxs_kstzb/view?id=358571",
+    "publisher": "Tsinghua University",
+    "checked": "2026-10-04",
+    "note": "Página identificada pelo título chinês 校级港澳台. Os prazos 30/09 e 30/10 pertencem a esta categoria, não devem ser aplicados automaticamente ao estudante internacional do IST."
+  },
+  {
+    "id": "log-visa-types",
+    "title": "Tsinghua: tipos de visto de estudo",
+    "url": "https://is.tsinghua.edu.cn/vp/FIS/VT.htm",
+    "publisher": "Tsinghua ISSC",
+    "checked": "2026-10-04",
+    "note": "Regra atual de X1/X2; instruções individuais Spring 2027 ainda devem prevalecer."
+  },
+  {
+    "id": "log-visa-procedures",
+    "title": "Tsinghua: procedimentos de vistos e residência",
+    "url": "https://is.tsinghua.edu.cn/vp/FIS/VisaProcedures.htm",
+    "publisher": "Tsinghua ISSC",
+    "checked": "2026-10-04",
+    "note": "Consultado para residência, documentos, extensão e procedimentos X2; não garante aprovação individual."
+  },
+  {
+    "id": "log-visa-notes",
+    "title": "Tsinghua: pontos importantes sobre vistos",
+    "url": "https://is.tsinghua.edu.cn/info/1442/1412.htm",
+    "publisher": "Tsinghua ISSC",
+    "checked": "2026-10-04",
+    "note": "Página datada de 2021, ainda publicada; reconfirmar orientação específica 2027 e alterações nacionais mais recentes."
+  },
+  {
+    "id": "log-lis-online",
+    "title": "Embaixada em Portugal: pedido de visto chinês online",
+    "url": "https://pt.china-embassy.gov.cn/pot/lqsw/Consulate01/202503/t20250313_11574463.htm",
+    "publisher": "Embaixada da China em Portugal",
+    "checked": "2026-10-04",
+    "note": "Processo online entrou em vigor em 31/03/2025; usar portal de Lisboa atualizado."
+  },
+  {
+    "id": "log-lis-category",
+    "title": "Centro de Lisboa: categorias de visto",
+    "url": "https://biohk.visaforchina.cn/LIS4_PT/qianzhengyewu/jichuzhishi/banliliucheng",
+    "publisher": "Chinese Visa Application Service Center Lisboa",
+    "checked": "2026-10-04",
+    "note": "Categorias oficiais; checklist gerada para o pedido concreto deve ser reconfirmada."
+  },
+  {
+    "id": "log-lis-centre",
+    "title": "Centro de Vistos da China em Lisboa",
+    "url": "https://biohk.visaforchina.cn/LIS4_PT/",
+    "publisher": "Chinese Visa Application Service Center Lisboa",
+    "checked": "2026-10-04",
+    "note": "Contactos, acompanhamento e taxas; não se apresentam taxas de 2026 como garantidas para 2027."
+  },
+  {
+    "id": "log-mfa-waiver",
+    "title": "MFA: perguntas frequentes sobre entrada sem visto",
+    "url": "https://cs.mfa.gov.cn/lh/lhqz_149493/cjwd/",
+    "publisher": "Ministério dos Negócios Estrangeiros da China",
+    "checked": "2026-10-04",
+    "note": "Portugal, 30 dias e limite 31/12/2026 confirmados; trabalho e estudo não cobertos. Política 2027 não confirmada."
+  },
+  {
+    "id": "log-registration",
+    "title": "Registo online de alojamento em todo o país",
+    "url": "https://english.beijing.gov.cn/latest/news/202609/t20260923_4877803.html",
+    "publisher": "Governo de Pequim / National Immigration Administration",
+    "checked": "2026-10-04",
+    "note": "Nova implementação nacional desde 21/09/2026; mantém prazo de 24 horas e canal presencial."
+  },
+  {
+    "id": "log-arrival-card",
+    "title": "NIA: como preencher o cartão de chegada online",
+    "url": "https://en.nia.gov.cn/n147418/n147463/c195170/content.html",
+    "publisher": "National Immigration Administration",
+    "checked": "2026-10-04",
+    "note": "Guia oficial de 22/12/2025 com vídeo; consultar interface e canais oficiais antes da partida."
+  },
+  {
+    "id": "log-arrival-campus",
+    "title": "Tsinghua: chegar ao campus",
+    "url": "https://is.tsinghua.edu.cn/GettingStarted/Arrival/GettingTsinghua.htm",
+    "publisher": "Tsinghua ISSC",
+    "checked": "2026-10-04",
+    "note": "Útil para portão nordeste e trajeto via Sanyuanqiao; contém horários antigos, não tratados como atuais."
+  },
+  {
+    "id": "log-handbook",
+    "title": "Tsinghua: Campus Life Handbook",
+    "url": "https://is.tsinghua.edu.cn/Campus-Life-Handbook.pdf",
+    "publisher": "Tsinghua University",
+    "checked": "2026-10-04",
+    "note": "Manual oficial de 17 páginas indexado em 2025; distingue estudantes/scholars e avisa que non-degree pode ter pagamentos diferentes. A síntese desta pesquisa é curta por limite de fonte."
+  },
+  {
+    "id": "log-emirates",
+    "title": "Emirates: Lisboa–Pequim PEK",
+    "url": "https://www.emirates.com/pt/portuguese/destinations/lis/pek/flights-from-lisbon-to-beijing/",
+    "publisher": "Emirates",
+    "checked": "2026-10-04",
+    "note": "Página de operador consultada; horários e preços não são uma reserva nem confirmação para datas pessoais 2027."
+  },
+  {
+    "id": "log-turkish",
+    "title": "Turkish Airlines: Lisboa–Pequim",
+    "url": "https://www.turkishairlines.com/en-pt/flights-from-lisbon-to-beijing",
+    "publisher": "Turkish Airlines",
+    "checked": "2026-10-04",
+    "note": "Pesquisa oficial de rota inclui meses de 2027; disponibilidade e bagagem dependem de pesquisa datada."
+  },
+  {
+    "id": "log-pek-services",
+    "title": "Capital Airport: serviços e transporte",
+    "url": "https://www.bcia.com.cn/jcapp/index.html",
+    "publisher": "Beijing Capital International Airport",
+    "checked": "2026-10-04",
+    "note": "Menu oficial inclui táxi, shuttle, Airport Express, fronteira e serviços de pagamento; seguir informação operacional ao viajar."
+  },
+  {
+    "id": "log-daxing-fare",
+    "title": "Operador de Daxing: tarifas do Airport Express",
+    "url": "https://www.bjmoa.cn/newsInfo_7234.html",
+    "publisher": "Beijing Metro Operation Administration",
+    "checked": "2026-10-04",
+    "note": "Tabela oficial publicada em 2019 ainda consultável: escalões 10/25/35 CNY e classe business 50; reconfirmar 2027."
+  },
+  {
+    "id": "log-caac-battery",
+    "title": "CAAC: power banks em voos domésticos",
+    "url": "https://www.caac.gov.cn/English/News/202507/t20250709_227894.html",
+    "publisher": "Civil Aviation Administration of China",
+    "checked": "2026-10-04",
+    "note": "Regra desde 28/06/2025: sem marca CCC, marca ilegível ou lote/modelo recolhido proibido em voos domésticos."
+  },
+  {
+    "id": "log-mobile-payment",
+    "title": "Guia oficial: pagamentos móveis para estrangeiros",
+    "url": "https://english.beijing.gov.cn/specials/aguidetoworkingandlivinginchinaasbusinessexpatriates2024/dailylifeservices/202404/t20240424_3635122.html",
+    "publisher": "Ministério do Comércio da China",
+    "checked": "2026-10-04",
+    "note": "Cartões, registo e QR; marcas, limites e comissões dependem de cada produto e emissor."
+  },
+  {
+    "id": "log-payment-fees",
+    "title": "Guia 2024 do Ministério do Comércio: custos de pagamento",
+    "url": "https://nsd.mofcom.gov.cn/tzyts/art/2024/art_a08888d0b9da42f083b00223edaf1de7.html",
+    "publisher": "Ministério do Comércio da China",
+    "checked": "2026-10-04",
+    "note": "Referência 200 CNY/3%; condições na aplicação podem mudar até 2027, incluindo promoções temporárias."
+  },
+  {
+    "id": "log-daily-guide",
+    "title": "Guia 2025: viver e trabalhar na China",
+    "url": "https://fdi.mofcom.gov.cn/resource/pdf/wx2024/2025EN.pdf",
+    "publisher": "Ministério do Comércio da China",
+    "checked": "2026-10-04",
+    "note": "Guia oficial para cash, câmbio e serviços; não substitui regulamentos individuais de banco ou imigração."
+  },
+  {
+    "id": "log-bank-campus",
+    "title": "Tsinghua: cartão bancário à chegada",
+    "url": "https://is.tsinghua.edu.cn/GettingStarted/Arrival/BankCard.htm",
+    "publisher": "Tsinghua ISSC",
+    "checked": "2026-10-04",
+    "note": "Página recomenda Bank of China e ligação ao IC card; a obrigação e método aplicáveis a exchange/non-degree devem ser confirmados no programa."
+  },
+  {
+    "id": "log-go-beijing",
+    "title": "GO BEIJING: serviços e Travel Wallet",
+    "url": "https://english.beijing.gov.cn/specials/paymentservices/news/202604/t20260430_4624215.html",
+    "publisher": "Governo de Pequim",
+    "checked": "2026-10-04",
+    "note": "Lançamento abril 2026; não garante elegibilidade, limites ou continuidade no semestre 2027."
+  },
+  {
+    "id": "log-ecosystem",
+    "title": "Quatro plataformas oficiais para visitantes internacionais",
+    "url": "https://english.beijing.gov.cn/latest/news/202605/t20260515_4652344.html",
+    "publisher": "Governo de Pequim",
+    "checked": "2026-10-04",
+    "note": "Maio 2026: GO BEIJING, Jingtong inglês, portal internacional e balcões Beijing Service."
+  },
+  {
+    "id": "log-map",
+    "title": "Mapa inglês de Pequim: edição 2025",
+    "url": "https://english.beijing.gov.cn/travellinginbeijing/essentials/inboundtourismfacilitationmeasures/202604/t20260409_4578290.html",
+    "publisher": "Governo de Pequim / Comissão de Planeamento",
+    "checked": "2026-10-04",
+    "note": "Publicado em abril de 2026 com informação até fim 2025; horários de locais exigem reconfirmação."
+  },
+  {
+    "id": "log-sim-pek",
+    "title": "Capital Airport: pedir e recolher SIM local",
+    "url": "https://english.beijing.gov.cn/specials/beijingservice/pek/sim/",
+    "publisher": "Governo de Pequim",
+    "checked": "2026-10-04",
+    "note": "Canais oficiais de China Mobile, China Unicom e China Telecom; preços/pacotes não foram fixados para 2027."
+  },
+  {
+    "id": "log-apple-esim",
+    "title": "Apple: usar eSIM numa viagem internacional",
+    "url": "https://support.apple.com/en-ie/118227",
+    "publisher": "Apple Support",
+    "checked": "2026-10-04",
+    "note": "Distingue eSIM de viagem e eSIM de operadora da China continental; limitações dependem do modelo e país de compra."
+  },
+  {
+    "id": "log-internet",
+    "title": "Conselhos oficiais: acesso à internet na China",
+    "url": "https://www.gov.uk/foreign-travel-advice/china/safety-and-security",
+    "publisher": "UK Foreign, Commonwealth & Development Office",
+    "checked": "2026-10-04",
+    "note": "Fonte governamental estrangeira para bloqueios e licenciamento de serviços VPN; não é aconselhamento consular para cidadania portuguesa."
+  },
+  {
+    "id": "log-student-network",
+    "title": "Tsinghua: acesso à rede para estudantes",
+    "url": "https://is.tsinghua.edu.cn/asdfasdf/dfadfgasq/ITInternetq/AccessingtheInterne.htm",
+    "publisher": "Tsinghua ISSC",
+    "checked": "2026-10-04",
+    "note": "Conta, LAN, Wi-Fi e gestão; URLs de autenticação atuais devem ser comparadas com manual/orientação 2027."
+  },
+  {
+    "id": "log-enrolment-digital",
+    "title": "Tsinghua: FAQ digital de novos estudantes",
+    "url": "https://www.tsinghua.edu.cn/en/info/1346/10394.htm",
+    "publisher": "Tsinghua University",
+    "checked": "2026-10-04",
+    "note": "Identidade eletrónica, cloud e integração WeChat; sequência concreta de exchange 2027 não confirmada."
+  },
+  {
+    "id": "log-its",
+    "title": "Tsinghua: plataforma de serviços de rede",
+    "url": "https://its.tsinghua.edu.cn/1wzcycejdh_list.jsp?urltype=tree.TreeTempUrl&wbtreeid=1770",
+    "publisher": "Tsinghua Information Technology Services",
+    "checked": "2026-10-04",
+    "note": "Catálogo oficial inclui guia Tsinghua-Secure de 22/08/2024; usar apoio institucional para alterações."
+  },
+  {
+    "id": "log-didi",
+    "title": "DiDi China: página oficial da aplicação",
+    "url": "https://apps.apple.com/us/app/didi-china-ride-hailing/id554499054",
+    "publisher": "DiDi / Apple App Store",
+    "checked": "2026-10-04",
+    "note": "Descrição do próprio operador: interface inglesa, números internacionais, mensagens bilingues e cartões; não teste de conta individual."
+  },
+  {
+    "id": "log-metro-cards",
+    "title": "Pequim: cartões estrangeiros no metro",
+    "url": "https://english.beijing.gov.cn/contactus/faqs/list/202602/t20260209_4502729.html",
+    "publisher": "Governo de Pequim / Beijing Subway",
+    "checked": "2026-10-04",
+    "note": "Resposta do operador datada fevereiro 2026 sobre máquinas e acesso; sempre verificar compatibilidade da credencial usada."
+  },
+  {
+    "id": "log-metro-fares",
+    "title": "Tarifas da rede de metro de Pequim",
+    "url": "https://english.beijing.gov.cn/specials/beijinglifeonthesubway/noticeforpassengers/202504/t20250423_4072294.html",
+    "publisher": "Governo de Pequim / Beijing Subway",
+    "checked": "2026-10-04",
+    "note": "Escalões distância e Capital Airport Express 25 CNY; preços 2027 não garantidos."
+  },
+  {
+    "id": "log-subway",
+    "title": "Beijing Subway: mapa e primeiro/último comboio",
+    "url": "https://www.bjsubway.com/en/index.html",
+    "publisher": "Beijing Subway",
+    "checked": "2026-10-04",
+    "note": "Consulta por estação, sentido e linha; não usar um horário único para toda a rede."
+  },
+  {
+    "id": "log-access",
+    "title": "Beijing Subway: instalações de acessibilidade",
+    "url": "https://wenjuan.bjsubway.com/station/wzass/",
+    "publisher": "Beijing Subway",
+    "checked": "2026-10-04",
+    "note": "Tabelas específicas por estação e saída; há estações antigas com limitações, confirmar funcionamento no dia."
+  },
+  {
+    "id": "log-transport-card",
+    "title": "Cartão Yikatong: utilização em autocarros",
+    "url": "https://english.beijing.gov.cn/travellinginbeijing/transportation/202005/t20200529_1911574.html?v=jt",
+    "publisher": "Governo de Pequim / Yikatong",
+    "checked": "2026-10-04",
+    "note": "Distingue tarifa plana e segmentada; artigo antigo, não importar preço ou produto sem validação atual."
+  },
+  {
+    "id": "log-transport-guide",
+    "title": "Guia prático oficial de transportes",
+    "url": "https://english.beijing.gov.cn/latest/specials/essentialtipsfornewarrivals/transportation/202408/t20240830_3785706.html",
+    "publisher": "Governo de Pequim",
+    "checked": "2026-10-04",
+    "note": "Página atualizada contém passos para Alipay bus/metro e recolha; regras de cancelamento Didi não assumidas como universais."
+  },
+  {
+    "id": "log-campus-gates",
+    "title": "Tsinghua: transportes para vários portões",
+    "url": "https://www.tsinghua.edu.cn/en/Visitor/Campus_Information/Visitor_Parking.htm",
+    "publisher": "Tsinghua University",
+    "checked": "2026-10-04",
+    "note": "Estações linhas 4/13/15 e acessos por portão; estudante deve confirmar regras de entrada aplicáveis."
+  },
+  {
+    "id": "log-taxi",
+    "title": "Pequim: táxis licenciados e taxímetro",
+    "url": "https://english.beijing.gov.cn/livinginbeijing/Transportationlive/202005/t20200513_1895911.html",
+    "publisher": "Governo de Pequim",
+    "checked": "2026-10-04",
+    "note": "Tabela antiga disponível (2020), usada para estrutura de custos e identificação; sem garantia de orçamento 2027."
+  },
+  {
+    "id": "log-shared-bike",
+    "title": "Guia oficial de bicicletas partilhadas",
+    "url": "https://english.bjsjs.gov.cn/services/servicestransportation/202012/t20201216_35435.html",
+    "publisher": "Governo de Shijingshan / Governo de Pequim",
+    "checked": "2026-10-04",
+    "note": "Página de 2023; passos e marcas úteis, tarifas e verificação de passaporte devem ser vistas na aplicação atual."
+  },
+  {
+    "id": "log-ebike",
+    "title": "Pequim: novas regras de bicicletas elétricas",
+    "url": "https://english.beijing.gov.cn/whatson/events/Tips/202604/t20260422_4602688.html",
+    "publisher": "Governo de Pequim / Beijing Fabu",
+    "checked": "2026-10-04",
+    "note": "Alterações vigentes desde 01/05/2026: capacete elétricas, registo, uso do telemóvel e baterias."
+  },
+  {
+    "id": "log-campus-bus",
+    "title": "Tsinghua: transporte interno",
+    "url": "https://is.tsinghua.edu.cn/info/1195/1288.htm",
+    "publisher": "Tsinghua ISSC",
+    "checked": "2026-10-04",
+    "note": "Página 2021: shuttle e cautela com scooters; horários antigos, reconfirmar esquema 2027."
+  },
+  {
+    "id": "log-rail-faq",
+    "title": "China Railway 12306: FAQ inglesa",
+    "url": "https://www.12306.cn/en/faq.html?item=1",
+    "publisher": "China Railway",
+    "checked": "2026-10-04",
+    "note": "Identidade, documentos originais, alteração/reembolso, bagagem e assistência; texto contém secções antigas, conferir regra específica atual."
+  },
+  {
+    "id": "log-rail-sale",
+    "title": "China Railway: regras de venda e janela de reserva",
+    "url": "https://kyfw.12306.cn/otn/gonggao/saleTicketMeans.html",
+    "publisher": "China Railway",
+    "checked": "2026-10-04",
+    "note": "Regra oficial de 15 dias incluindo dia atual; horários e tarifas 2027 surgem apenas quando venda abre."
+  },
+  {
+    "id": "log-rail-safety",
+    "title": "China Railway: dicas de segurança e viagem",
+    "url": "https://www.12306.cn/index/view/infos/safetyTips.html",
+    "publisher": "China Railway",
+    "checked": "2026-10-04",
+    "note": "Portal oficial para controlo, bagagem, ligações e assistência; consultar detalhes do comboio e estação."
+  },
+  {
+    "id": "log-rail-help",
+    "title": "Beijing Service: apoio para bilhetes de comboio",
+    "url": "https://english.beijing.gov.cn/specials/beijingservice/pek/trafficthree/index.html",
+    "publisher": "Governo de Pequim",
+    "checked": "2026-10-04",
+    "note": "Balcões no aeroporto ajudam com 12306; assistência não implica disponibilidade de lugares."
+  },
+  {
+    "id": "log-badaling",
+    "title": "Pequim: informação oficial de Badaling",
+    "url": "https://english.beijing.gov.cn/travellinginbeijing/attractions/202603/t20260320_4562521.html",
+    "publisher": "Governo de Pequim",
+    "checked": "2026-10-04",
+    "note": "Localização e visita; estação/bilhete de comboio não substituem reserva de atração."
+  },
+  {
+    "id": "log-tianjin",
+    "title": "Ligação turística Pequim–Tianjin em 2026",
+    "url": "https://english.beijing.gov.cn/travellinginbeijing/transportation/railway/202512/t20251212_4338385.html",
+    "publisher": "Governo de Pequim / China Railway Beijing Group",
+    "checked": "2026-10-04",
+    "note": "Exemplo de serviço 2026; não pressupor operação/frequência em todos os fins de semana 2027."
+  },
+  {
+    "id": "log-bikes-metro",
+    "title": "Teste de bicicletas no metro ao fim de semana",
+    "url": "https://english.beijing.gov.cn/latest/news/202605/t20260511_4645469.html",
+    "publisher": "Governo de Pequim",
+    "checked": "2026-10-04",
+    "note": "Serviço experimental desde maio 2026 apenas linhas/estações selecionadas; não é autorização geral de bicicletas."
+  },
+  {
+    "id": "log-rail-home",
+    "title": "China Railway 12306: portal oficial inglês",
+    "url": "https://www.12306.cn/en/index.html",
+    "publisher": "China Railway",
+    "checked": "2026-10-04",
+    "note": "Portal oficial com pesquisa de comboios e área de utilizador; não é uma confirmação de horários 2027."
+  },
+  {
+    "id": "places-01",
+    "title": "Haidian District: localização e património",
+    "url": "https://english.beijing.gov.cn/investinginbeijing/WhyBeijing/DistrictsParks/Haidian/Introduction/202005/t20200519_1902084.html",
+    "publisher": "Governo Municipal de Pequim",
+    "checked": "2026-10-04",
+    "note": "Enquadramento geográfico; indicadores históricos de 2019 não usados como dados atuais."
+  },
+  {
+    "id": "places-03",
+    "title": "Zhongguancun Science Park International Talent Community",
+    "url": "https://english.beijing.gov.cn/specials/talent/service/internationalcommunity/202601/t20260114_4430029.html",
+    "publisher": "Governo Municipal de Pequim",
+    "checked": "2026-10-04",
+    "note": "Fonte de janeiro de 2026 sobre eixos urbanos da zona."
+  },
+  {
+    "id": "places-04",
+    "title": "Zhongguancun ART PARK: complexo e transportes",
+    "url": "https://english.beijing.gov.cn/consuminginbeijing/wheretobuy/commercialareas/updatesofcommercialareas/202512/t20251212_4338135.html",
+    "publisher": "Governo Municipal de Pequim",
+    "checked": "2026-10-04",
+    "note": "Notícia de abertura de dezembro de 2025; eventos passados não tratados como futuros."
+  },
+  {
+    "id": "places-05",
+    "title": "Rambling in the Hutong: Wudaoying e Nanluoguxiang",
+    "url": "https://english.beijing.gov.cn/beijinginfo/culture/202005/t20200515_1898145.html",
+    "publisher": "Governo Municipal de Pequim",
+    "checked": "2026-10-04",
+    "note": "Descrição urbana e acessos; estabelecimentos individuais não garantidos."
+  },
+  {
+    "id": "places-06",
+    "title": "Experience Cultural Sense of Hutong",
+    "url": "https://english.beijing.gov.cn/travellinginbeijing/citytours/202012/t20201216_2166628.html",
+    "publisher": "Governo Municipal de Pequim / Visit Beijing",
+    "checked": "2026-10-04",
+    "note": "Referência histórica e de percurso de 2020."
+  },
+  {
+    "id": "places-07",
+    "title": "Wangfujing Street: estação e acesso público",
+    "url": "https://english.beijing.gov.cn/specials/beijinglifeonthesubway/landmarksalongthesubwaylines/line1/202206/t20220624_2750302.html",
+    "publisher": "Governo Municipal de Pequim",
+    "checked": "2026-10-04",
+    "note": "Enquadramento de rua comercial."
+  },
+  {
+    "id": "places-08",
+    "title": "Qianmen e Dashilanr Commercial District",
+    "url": "https://english.beijing.gov.cn/consuminginbeijing/wheretobuy/commercialareas/updatesofcommercialareas/202104/t20210408_2349020.html",
+    "publisher": "Governo Municipal de Pequim",
+    "checked": "2026-10-04",
+    "note": "Enquadramento comercial e histórico da zona."
+  },
+  {
+    "id": "places-09",
+    "title": "Sanlitun Fashion Shopping District",
+    "url": "https://english.beijing.gov.cn/consuminginbeijing/wheretobuy/commercialareas/updatesofcommercialareas/202104/t20210408_2348984.html",
+    "publisher": "Governo Municipal de Pequim",
+    "checked": "2026-10-04",
+    "note": "Taikoo Li e Sanlitun SOHO; rede metro atual deve ser confirmada."
+  },
+  {
+    "id": "places-10",
+    "title": "Guide to Beijing Night Tours: Shichahai",
+    "url": "https://english.beijing.gov.cn/travellinginbeijing/focus/202303/t20230324_2943468.html",
+    "publisher": "Governo Municipal de Pequim",
+    "checked": "2026-10-04",
+    "note": "Guia de 2023; sessões de barcos e bares não garantidas para 2027."
+  },
+  {
+    "id": "places-11",
+    "title": "Pre-arrival Accommodation",
+    "url": "https://is.tsinghua.edu.cn/info/1348/1378.htm",
+    "publisher": "Tsinghua International Students & Scholars Center",
+    "checked": "2026-10-04",
+    "note": "Capacidade limitada, candidatura e contratos; instruções finais do pacote 2027 prevalecem."
+  },
+  {
+    "id": "places-13",
+    "title": "Accommodation Guide for International Students",
+    "url": "https://www.is.tsinghua.edu.cn/guojixueshengzhusuzhinanshouce8.20.pdf",
+    "publisher": "Tsinghua International Students & Scholars Center",
+    "checked": "2026-10-04",
+    "note": "Manual de 2020 usado só para princípios de avaliação de contrato."
+  },
+  {
+    "id": "places-14",
+    "title": "Off-campus Accommodation",
+    "url": "https://www.is.tsinghua.edu.cn/asdfasdf/Accommodationq/Off_campus_accommodation.htm",
+    "publisher": "Tsinghua International Students & Scholars Center",
+    "checked": "2026-10-04",
+    "note": "Documentação do proprietário antes de pagamento e atualização de registo."
+  },
+  {
+    "id": "places-15",
+    "title": "Guide to Accommodation Registration for Foreigners",
+    "url": "https://english.beijing.gov.cn/livinginbeijing/applicationfordocuments/202107/t20210719_2439278.html",
+    "publisher": "Governo Municipal de Pequim",
+    "checked": "2026-10-04",
+    "note": "Página atualizada com sistema novo em 2026; procedimento deve ser revisto antes da chegada."
+  },
+  {
+    "id": "places-16",
+    "title": "Hotels close to Tsinghua University",
+    "url": "https://www.is.tsinghua.edu.cn/asdfasdf/Accommodationq/Hotel_accommodation_near_campus.htm",
+    "publisher": "Tsinghua International Students & Scholars Center",
+    "checked": "2026-10-04",
+    "note": "Lista institucional atual de quatro hotéis; não contém avaliação ou tarifas."
+  },
+  {
+    "id": "places-17",
+    "title": "Palace Museum: orientação e edifícios",
+    "url": "https://www.dpm.org.cn/Visit.html",
+    "publisher": "The Palace Museum",
+    "checked": "2026-10-04",
+    "note": "Mapa e itinerários oficiais; áreas podem encerrar por obras."
+  },
+  {
+    "id": "places-19",
+    "title": "Palace Museum: visita, horários e preços",
+    "url": "https://intl.dpm.org.cn/visit.html",
+    "publisher": "The Palace Museum",
+    "checked": "2026-10-04",
+    "note": "Regras consultadas em 2026; sem bilhetes do próprio dia, fecho à segunda e temporadas."
+  },
+  {
+    "id": "places-20",
+    "title": "Palace Museum: regras de reserva",
+    "url": "https://english.beijing.gov.cn/latest/news/202306/t20230629_3150036.html",
+    "publisher": "Governo Municipal de Pequim / The Palace Museum",
+    "checked": "2026-10-04",
+    "note": "Janela de sete dias às 20:00 e identificação original; reconfirmar avisos em 2027."
+  },
+  {
+    "id": "places-21",
+    "title": "FAQ: reservas com número internacional",
+    "url": "https://english.beijing.gov.cn/12345hotline/faqs/all/202506/t20250620_4117980.html",
+    "publisher": "Governo Municipal de Pequim, serviço 12345",
+    "checked": "2026-10-04",
+    "note": "Esclarecimento de 20/6/2025 para Palace Museum e Summer Palace."
+  },
+  {
+    "id": "places-22",
+    "title": "Palace Museum: bilheteira oficial",
+    "url": "https://ticket.dpm.org.cn/",
+    "publisher": "The Palace Museum",
+    "checked": "2026-10-04",
+    "note": "Página inclui avisos recentes e secções legadas; não se reproduzem regras pandémicas antigas."
+  },
+  {
+    "id": "places-24",
+    "title": "12345 FAQ: Tiananmen e National Museum",
+    "url": "https://english.beijing.gov.cn/12345hotline/faqs/index.html",
+    "publisher": "Governo Municipal de Pequim, serviço 12345",
+    "checked": "2026-10-04",
+    "note": "Questões sobre mini-programa, passaporte e facilitações na praça."
+  },
+  {
+    "id": "places-25",
+    "title": "Tiananmen Rostrum: reabertura de setembro de 2025",
+    "url": "https://english.beijing.gov.cn/latest/news/202509/t20250906_4192380.html",
+    "publisher": "Governo Municipal de Pequim",
+    "checked": "2026-10-04",
+    "note": "Demonstra encerramento/reabertura específico; estado de 2027 por verificar."
+  },
+  {
+    "id": "places-26",
+    "title": "FAQ: bilhetes de Jingshan e Beihai",
+    "url": "https://english.beijing.gov.cn/12345hotline/faqs/all/202506/t20250620_4117982.html",
+    "publisher": "Governo Municipal de Pequim, serviço 12345",
+    "checked": "2026-10-04",
+    "note": "Esclarecimento recente de bilhetes nas portas sem reserva; prevalece sobre guias mais antigos."
+  },
+  {
+    "id": "places-27",
+    "title": "The Great Wall",
+    "url": "https://whc.unesco.org/en/list/438/",
+    "publisher": "UNESCO World Heritage Centre",
+    "checked": "2026-10-04",
+    "note": "História e sistema defensivo; não se reproduz alegação errada da página sobre visibilidade da Lua."
+  },
+  {
+    "id": "places-28",
+    "title": "Mutianyu: Notice to Visitors",
+    "url": "https://en.mutianyugreatwall.com/article/4DlCYuBZ75h",
+    "publisher": "Operador Mutianyu Great Wall",
+    "checked": "2026-10-04",
+    "note": "Reserva com documento, torres abertas e acessos dos equipamentos; aviso de 2023."
+  },
+  {
+    "id": "places-29",
+    "title": "Mutianyu: horários atuais",
+    "url": "https://en.mutianyugreatwall.com/",
+    "publisher": "Operador Mutianyu Great Wall",
+    "checked": "2026-10-04",
+    "note": "Horários especificamente de 2026; períodos prolongados não extrapolados para 2027."
+  },
+  {
+    "id": "places-30",
+    "title": "Mutianyu: acesso e transporte público",
+    "url": "https://english.beijing.gov.cn/travellinginbeijing/attractions/202603/t20260325_4566115.html",
+    "publisher": "Governo Municipal de Pequim",
+    "checked": "2026-10-04",
+    "note": "Rota 916 e ligação publicada em março de 2026; horários dependem de verificação."
+  },
+  {
+    "id": "places-32",
+    "title": "Legacy Report: Beijing–Zhangjiakou railway",
+    "url": "https://english.beijing.gov.cn/beijing2022/recommendations/202107/P020210624363493140996.pdf",
+    "publisher": "Beijing 2022 / Governo Municipal de Pequim",
+    "checked": "2026-10-04",
+    "note": "Confirma infraestrutura e estação Badaling Great Wall; sem horários de 2027."
+  },
+  {
+    "id": "places-33",
+    "title": "Beijing WTown",
+    "url": "https://english.beijing.gov.cn/travellinginbeijing/attractions/202603/t20260325_4566117.html",
+    "publisher": "Governo Municipal de Pequim",
+    "checked": "2026-10-04",
+    "note": "Enquadramento geográfico resort/Simatai, março de 2026."
+  },
+  {
+    "id": "places-34",
+    "title": "Great Wall night tour guide",
+    "url": "https://english.beijing.gov.cn/travellinginbeijing/citytours/202509/t20250928_4212075.html",
+    "publisher": "Governo Municipal de Pequim",
+    "checked": "2026-10-04",
+    "note": "Produtos noturnos de 2025; disponibilidade 2027 não confirmada."
+  },
+  {
+    "id": "places-35",
+    "title": "Great Wall Protection Regulations in Beijing",
+    "url": "https://english.beijing.gov.cn/latest/news/202603/t20260304_4549721.html",
+    "publisher": "Governo Municipal de Pequim",
+    "checked": "2026-10-04",
+    "note": "Proteção patrimonial e gestão, março de 2026."
+  },
+  {
+    "id": "places-36",
+    "title": "Summer Palace: horários, portas e bilhetes",
+    "url": "https://english.beijing.gov.cn/specials/parktours/guidevisitors/summerpalace/",
+    "publisher": "Governo Municipal de Pequim / Administração dos Parques",
+    "checked": "2026-10-04",
+    "note": "Diferença jardim/interiores e temporadas; confirmar em 2027."
+  },
+  {
+    "id": "places-37",
+    "title": "Summer Palace, an Imperial Garden",
+    "url": "https://whc.unesco.org/en/list/880/",
+    "publisher": "UNESCO World Heritage Centre",
+    "checked": "2026-10-04",
+    "note": "Contexto patrimonial, lago e desenho paisagístico."
+  },
+  {
+    "id": "places-38",
+    "title": "Yuanmingyuan Ruins Park",
+    "url": "https://english.beijing.gov.cn/specials/ticketing/attractions/202407/t20240717_3751601.html",
+    "publisher": "Governo Municipal de Pequim",
+    "checked": "2026-10-04",
+    "note": "Ficha de julho de 2024 com componentes de bilhete; reconfirmar em 2027."
+  },
+  {
+    "id": "places-39",
+    "title": "Temple of Heaven",
+    "url": "https://whc.unesco.org/en/list/881/",
+    "publisher": "UNESCO World Heritage Centre",
+    "checked": "2026-10-04",
+    "note": "Contexto ritual e arquitetónico."
+  },
+  {
+    "id": "places-40",
+    "title": "Monday closures resume: aviso de setembro de 2026",
+    "url": "https://english.beijing.gov.cn/specials/parktours/informationvisitors/focus/202609/t20260904_4850656.html",
+    "publisher": "Governo Municipal de Pequim",
+    "checked": "2026-10-04",
+    "note": "Fechos interiores Tiantan/Beihai e museus; regras sujeitas a feriados/anúncios."
+  },
+  {
+    "id": "places-41",
+    "title": "Visit Beijing: portal de bilhetes",
+    "url": "https://english.beijing.gov.cn/specials/ticketing/index.html",
+    "publisher": "Governo Municipal de Pequim",
+    "checked": "2026-10-04",
+    "note": "Fonte secundária para canais Tiantan; conteúdo extraído mistura fichas, usar com cautela."
+  },
+  {
+    "id": "places-42",
+    "title": "Yonghe Lama Temple: horários sazonais",
+    "url": "https://english.beijing.gov.cn/specials/cyclingroutes/route4/map/202306/t20230609_3129229.html",
+    "publisher": "Governo Municipal de Pequim",
+    "checked": "2026-10-04",
+    "note": "Ficha de junho de 2023, horário sazonal a reconfirmar."
+  },
+  {
+    "id": "places-43",
+    "title": "Confucian Temple and Imperial College Museum",
+    "url": "https://english.beijing.gov.cn/specials/ticketing/museums/202409/t20240929_3909675.html",
+    "publisher": "Governo Municipal de Pequim",
+    "checked": "2026-10-04",
+    "note": "Horário, fecho, venda local e elegibilidade de descontos publicada em setembro de 2024."
+  },
+  {
+    "id": "places-44",
+    "title": "Prince Gong's Mansion",
+    "url": "https://english.beijing.gov.cn/travellinginbeijing/focus/202012/t20201215_2164666.html",
+    "publisher": "Governo Municipal de Pequim / Visit Beijing",
+    "checked": "2026-10-04",
+    "note": "Enquadramento histórico; preços e programa de 2020 não tratados como atuais."
+  },
+  {
+    "id": "places-45",
+    "title": "Roam in Beijing: vinte percursos urbanos",
+    "url": "https://english.beijing.gov.cn/travellinginbeijing/hotroutes/202309/t20230927_3267678.html",
+    "publisher": "Governo Municipal de Pequim",
+    "checked": "2026-10-04",
+    "note": "Percursos oficiais de caminhadas divulgados em 2023."
+  },
+  {
+    "id": "places-46",
+    "title": "Beijing Hutong Tour: percursos",
+    "url": "https://english.beijing.gov.cn/travellinginbeijing/citytours/202012/t20201217_2167418.html",
+    "publisher": "Governo Municipal de Pequim / CGTN",
+    "checked": "2026-10-04",
+    "note": "Geografia do itinerário de 2020; visitas privadas e operadores não recomendados como atuais."
+  },
+  {
+    "id": "places-47",
+    "title": "Beihai Park: áreas e horários",
+    "url": "https://english.beijing.gov.cn/specials/parktours/guidevisitors/beihaipark/index.html",
+    "publisher": "Governo Municipal de Pequim / Administração dos Parques",
+    "checked": "2026-10-04",
+    "note": "Enquadramento do parque; reserva antiga em conflito com FAQ de 2025."
+  },
+  {
+    "id": "places-48",
+    "title": "Yuyuantan Park",
+    "url": "https://english.beijing.gov.cn/specials/parktours/guidevisitors/yuyuantanpark/",
+    "publisher": "Governo Municipal de Pequim / Administração dos Parques",
+    "checked": "2026-10-04",
+    "note": "Entradas e tradição de cerejeiras; floração e evento 2027 por verificar."
+  },
+  {
+    "id": "places-49",
+    "title": "Olympic Forest Park: ficha 2026",
+    "url": "https://english.beijing.gov.cn/travellinginbeijing/attractions/202603/t20260320_4562517.html",
+    "publisher": "Governo Municipal de Pequim",
+    "checked": "2026-10-04",
+    "note": "Entrada gratuita e organização norte/sul."
+  },
+  {
+    "id": "places-50",
+    "title": "Olympic Forest Park: estação linha 8",
+    "url": "https://english.beijing.gov.cn/specials/beijinglifeonthesubway/landmarksalongthesubwaylines/line8/202206/t20220624_2750397.html",
+    "publisher": "Governo Municipal de Pequim",
+    "checked": "2026-10-04",
+    "note": "Acesso Forest Park South Gate; confirmar percurso em 2027."
+  },
+  {
+    "id": "places-51",
+    "title": "Tsinghua Art Museum: informação de visita",
+    "url": "https://www.artmuseum.tsinghua.edu.cn/cgfw/cgxz/",
+    "publisher": "Tsinghua University Art Museum",
+    "checked": "2026-10-04",
+    "note": "Horário regular e exceções; não promete abertura noturna em todas as datas."
+  },
+  {
+    "id": "places-52",
+    "title": "Tsinghua Art Museum: bilheteira e gratuitidade local",
+    "url": "https://www.artmuseum.tsinghua.edu.cn/cgfw/wsgp/",
+    "publisher": "Tsinghua University Art Museum",
+    "checked": "2026-10-04",
+    "note": "Passaportes no balcão, gratuitidade com documento local e limites acesso ao campus."
+  },
+  {
+    "id": "places-53",
+    "title": "Tsinghua Art Museum: exposições atuais",
+    "url": "https://www.artmuseum.tsinghua.edu.cn/",
+    "publisher": "Tsinghua University Art Museum",
+    "checked": "2026-10-04",
+    "note": "Exposições 2026 e uma até 28/2/2027; reconfirmar calendário da primavera."
+  },
+  {
+    "id": "places-54",
+    "title": "National Museum: sistema de reserva internacional",
+    "url": "https://pcticket.chnmuseum.cn/museum-en/",
+    "publisher": "National Museum of China",
+    "checked": "2026-10-04",
+    "note": "Conteúdo indexado do sistema; abertura direta sofreu timeout, confirmar funcionamento antes de reservar."
+  },
+  {
+    "id": "places-55",
+    "title": "National Museum: abertura temporária de julho de 2026",
+    "url": "https://www2.chnmuseum.cn/home_527/news/202607/t20260723_280196.html",
+    "publisher": "National Museum of China",
+    "checked": "2026-10-04",
+    "note": "Exceção específica à segunda, não aplicável automaticamente a 2027."
+  },
+  {
+    "id": "places-56",
+    "title": "UCCA: localização e horários",
+    "url": "https://www.ucca-group.com/en/visit/",
+    "publisher": "UCCA Center for Contemporary Art",
+    "checked": "2026-10-04",
+    "note": "Operador oficial; horários e acessos atualizados na página, confirmar em 2027."
+  },
+  {
+    "id": "places-57",
+    "title": "UCCA: bilhetes e meios de pagamento",
+    "url": "https://ucca.org.cn/en/visit//",
+    "publisher": "UCCA Center for Contemporary Art",
+    "checked": "2026-10-04",
+    "note": "Compra no balcão, dinheiro e cartão; confirmar exposição e tarifa."
+  },
+  {
+    "id": "places-58",
+    "title": "Capital Museum",
+    "url": "https://english.beijing.gov.cn/specials/ticketing/museums/202407/t20240719_3753308.html",
+    "publisher": "Governo Municipal de Pequim",
+    "checked": "2026-10-04",
+    "note": "Ficha de 2024; horários com exceções sazonais exigem nova consulta."
+  },
+  {
+    "id": "places-59",
+    "title": "China Science and Technology Museum",
+    "url": "https://english.beijing.gov.cn/travellinginbeijing/museums/202603/t20260323_4563774.html",
+    "publisher": "Governo Municipal de Pequim",
+    "checked": "2026-10-04",
+    "note": "Horários e produtos distintos de março de 2026."
+  },
+  {
+    "id": "places-60",
+    "title": "NCPA: programação oficial",
+    "url": "https://en.chncpa.org/",
+    "publisher": "National Centre for the Performing Arts",
+    "checked": "2026-10-04",
+    "note": "Calendário e contactos; programação 2027 não estabelecida."
+  },
+  {
+    "id": "places-61",
+    "title": "NCPA: informações de visita e acessibilidade",
+    "url": "https://en.chncpa.org/ddh/visitinfo/",
+    "publisher": "National Centre for the Performing Arts",
+    "checked": "2026-10-04",
+    "note": "Contacto, salas e acessibilidade; confirmar requisitos da sessão."
+  },
+  {
+    "id": "life-clima",
+    "title": "Geografia e clima de Pequim",
+    "url": "https://english.beijing.gov.cn/beijinginfo/facts/202006/t20200601_1912281.html",
+    "publisher": "Governo Municipal de Pequim",
+    "checked": "2026-10-04",
+    "note": "Padrões climáticos gerais; não é previsão meteorológica para 2027."
+  },
+  {
+    "id": "life-polen",
+    "title": "Início da época de pólen da primavera",
+    "url": "https://english.beijing.gov.cn/whatson/events/Tips/202602/t20260227_4544300.html",
+    "publisher": "Portal oficial de Pequim / Beijing Shijitan Hospital",
+    "checked": "2026-10-04",
+    "note": "Aviso de 2026; datas e intensidade variam anualmente."
+  },
+  {
+    "id": "life-catkins",
+    "title": "Época dos flocos de choupo e salgueiro",
+    "url": "https://english.beijing.gov.cn/latest/news/202404/t20240408_3611774.html",
+    "publisher": "Portal oficial de Pequim / Beijing Municipal Forestry and Parks Bureau",
+    "checked": "2026-10-04",
+    "note": "Descrição sazonal publicada em 2024; consultar avisos de 2027."
+  },
+  {
+    "id": "life-ar2025",
+    "title": "Relatório ambiental de Pequim de 2025",
+    "url": "https://english.beijing.gov.cn/specials/livablegreenbeijing/livablegreennews/202604/t20260408_4576230.html",
+    "publisher": "Governo Municipal de Pequim / Ecology and Environment Bureau",
+    "checked": "2026-10-04",
+    "note": "Dados anuais de 2025, publicados em abril de 2026; não garantem condições futuras."
+  },
+  {
+    "id": "life-ar-cdc",
+    "title": "Qualidade do ar durante a viagem",
+    "url": "https://www.cdc.gov/yellow-book/hcp/environmental-hazards-risks/air-quality-and-ionizing-radiation-during-travel.html",
+    "publisher": "CDC — Yellow Book 2026",
+    "checked": "2026-10-04",
+    "note": "Mitigação de exposição a partículas e cuidados em doença cardíaca ou respiratória."
+  },
+  {
+    "id": "life-calor-oms",
+    "title": "Calor e saúde",
+    "url": "https://www.who.int/news-room/fact-sheets/detail/climate-change-heat-and-health",
+    "publisher": "Organização Mundial da Saúde",
+    "checked": "2026-10-04",
+    "note": "Orientação geral atualizada em julho de 2026; ajustar à situação individual."
+  },
+  {
+    "id": "life-agua-cdc",
+    "title": "Evitar água contaminada em viagem",
+    "url": "https://wwwnc.cdc.gov/travel/page/water-disinfection",
+    "publisher": "CDC",
+    "checked": "2026-10-04",
+    "note": "Água engarrafada selada e água tratada; não certifica fontes particulares no campus."
+  },
+  {
+    "id": "life-alimento-cdc",
+    "title": "Precauções com alimentos e água",
+    "url": "https://www.cdc.gov/yellow-book/hcp/preparing-international-travelers/food-and-water-precautions-for-travelers.html",
+    "publisher": "CDC — Yellow Book 2026",
+    "checked": "2026-10-04",
+    "note": "Princípios de higiene e escolhas alimentares durante viagem."
+  },
+  {
+    "id": "life-cdc-china",
+    "title": "China: saúde do viajante",
+    "url": "https://wwwnc.cdc.gov/travel/destinations/traveler/none//china",
+    "publisher": "CDC Travelers Health",
+    "checked": "2026-10-04",
+    "note": "Recomendações dependem de historial, atividades e destinos; consultar antes da partida."
+  },
+  {
+    "id": "life-diarreia",
+    "title": "Diarreia do viajante",
+    "url": "https://www.cdc.gov/yellow-book/hcp/preparing-international-travelers/travelers-diarrhea.html",
+    "publisher": "CDC — Yellow Book 2026",
+    "checked": "2026-10-04",
+    "note": "Atualização de março de 2026; sintomas e tratamento requerem avaliação individual."
+  },
+  {
+    "id": "life-posviagem",
+    "title": "Avaliação de doença após viagem",
+    "url": "https://www.cdc.gov/yellow-book/hcp/post-travel-evaluation/post-travel-evaluation-of-the-ill-traveler.html",
+    "publisher": "CDC — Yellow Book 2026",
+    "checked": "2026-10-04",
+    "note": "Valor do historial de viagem e sinais de atenção urgente."
+  },
+  {
+    "id": "life-anafilaxia",
+    "title": "Anafilaxia e preparação para alergia grave",
+    "url": "https://www.nhs.uk/conditions/anaphylaxis/",
+    "publisher": "NHS",
+    "checked": "2026-10-04",
+    "note": "Orientação clínica britânica; número de ambulância adaptado à fonte oficial chinesa: 120."
+  },
+  {
+    "id": "life-uni-comer",
+    "title": "Alimentação e água em Tsinghua",
+    "url": "https://is.tsinghua.edu.cn/asdfasdf/dfadfgasq/CampusResourcesq/FoodandDrink.htm",
+    "publisher": "Tsinghua — International Students & Scholars Center",
+    "checked": "2026-10-04",
+    "note": "Sistema de cantina, água, Wudaokou e entregas; reconfirmar procedimentos de intercâmbio em 2027."
+  },
+  {
+    "id": "life-uni-alojamento",
+    "title": "Alojamento e refeições em Tsinghua",
+    "url": "https://www.tsinghua.edu.cn/en/Campus/Student_Life/Housing___Dining.htm",
+    "publisher": "Tsinghua University",
+    "checked": "2026-10-04",
+    "note": "Salas de refeições e relação com residências internacionais; horários sujeitos a mudança."
+  },
+  {
+    "id": "life-pato",
+    "title": "Pato assado de Pequim",
+    "url": "https://english.beijing.gov.cn/travellinginbeijing/dining/202006/t20200623_1930732.html",
+    "publisher": "Portal oficial de Pequim",
+    "checked": "2026-10-04",
+    "note": "Referência gastronómica geral; não estabelece preços ou qualidade de uma sucursal."
+  },
+  {
+    "id": "life-mutton",
+    "title": "Hotpot tradicional de cordeiro",
+    "url": "https://english.beijing.gov.cn/travellinginbeijing/dining/202006/t20200623_1930734.html",
+    "publisher": "Portal oficial de Pequim",
+    "checked": "2026-10-04",
+    "note": "Descrição do prato e dos recipientes de cobre; confirmar ingredientes no restaurante."
+  },
+  {
+    "id": "life-restaurante",
+    "title": "Restaurantes e sabores tradicionais de Pequim",
+    "url": "https://english.beijing.gov.cn/consuminginbeijing/onedayinbeijing/abiteofbeijing/updatesofabiteofbeijing/202502/t20250203_4002635.html",
+    "publisher": "Governo Municipal de Pequim",
+    "checked": "2026-10-04",
+    "note": "Guia publicado em fevereiro de 2025; confirmar moradas, menus e horários perto da visita."
+  },
+  {
+    "id": "life-palitos",
+    "title": "Convenções de uso dos pauzinhos",
+    "url": "https://english.visitbeijing.com.cn/article/47ON8LxPO23",
+    "publisher": "Beijing Municipal Culture and Tourism Bureau — Visit Beijing",
+    "checked": "2026-10-04",
+    "note": "Orientação cultural; práticas variam entre pessoas e contextos."
+  },
+  {
+    "id": "life-chines-thu",
+    "title": "Aprender chinês em Tsinghua",
+    "url": "https://is.tsinghua.edu.cn/asdfasdf/dfadfgasq/adsfasdfq/LearningChinese.htm",
+    "publisher": "Tsinghua — International Students & Scholars Center",
+    "checked": "2026-10-04",
+    "note": "Encaminha para o Language Centre; acesso, vagas e créditos dependem do programa."
+  },
+  {
+    "id": "life-openlearn",
+    "title": "Introdução ao mandarim: caracteres e tons",
+    "url": "https://www.open.edu/openlearn/languages/beginners-chinese-taster-course/altformat-printable",
+    "publisher": "The Open University — OpenLearn",
+    "checked": "2026-10-04",
+    "note": "Material de aprendizagem; frases adicionais são traduções de apoio, não interpretação profissional."
+  },
+  {
+    "id": "life-12345",
+    "title": "Serviço municipal 12345",
+    "url": "https://english.beijing.gov.cn/12345hotline/index.html",
+    "publisher": "Governo Municipal de Pequim",
+    "checked": "2026-10-04",
+    "note": "Canal não urgente e informação de idiomas, incluindo português."
+  },
+  {
+    "id": "life-normas",
+    "title": "Regulamento de convivência e comportamento público",
+    "url": "https://www.beijing.gov.cn/zhengce/dfxfg/202005/t20200511_1893837.html",
+    "publisher": "Governo Municipal de Pequim",
+    "checked": "2026-10-04",
+    "note": "Texto legal chinês sobre comportamento público; conselhos de convivência são síntese prática."
+  },
+  {
+    "id": "life-shopping",
+    "title": "Ruas comerciais de Pequim",
+    "url": "https://english.beijing.gov.cn/travellinginbeijing/shopping/shoppingstreets/index.html",
+    "publisher": "Governo Municipal de Pequim",
+    "checked": "2026-10-04",
+    "note": "Mapa de zonas comerciais; não certifica vendedores ou autenticidade."
+  },
+  {
+    "id": "life-panjiayuan",
+    "title": "Mercado noturno de Panjiayuan",
+    "url": "https://english.beijing.gov.cn/consuminginbeijing/onedayinbeijing/sleeplessinbeijing/updatesofnighttimeconsumption/202504/t20250428_4076854.html",
+    "publisher": "Portal oficial de Pequim",
+    "checked": "2026-10-04",
+    "note": "Programa anunciado em abril de 2025; horários de 2027 por confirmar."
+  },
+  {
+    "id": "life-taxlim",
+    "title": "Condições nacionais de reembolso de imposto à saída",
+    "url": "https://english.shanghai.gov.cn/en-Individuals-ShoppingandTaxRefund-Departuretaxrefund/20260813/469b30ac4ff348b8ac3a1259f0e12d23.html",
+    "publisher": "Governo Municipal de Xangai",
+    "checked": "2026-10-04",
+    "note": "Guia nacional atualizado em setembro de 2026: 200 RMB, até 183 dias de permanência, saída até 90 dias após compra e bens não usados. Procedimentos locais de Pequim por confirmar."
+  },
+  {
+    "id": "life-taxpolicy",
+    "title": "Alteração oficial de 2025: mínimo de 200 RMB",
+    "url": "https://app.www.gov.cn/govdata/gov/202504/27/527846/article.html",
+    "publisher": "Conselho de Estado / State Taxation Administration",
+    "checked": "2026-10-04",
+    "note": "Aviso legal de 26 de abril de 2025; texto chinês. Reconfirmar regras para 2027."
+  },
+  {
+    "id": "life-taxpoints",
+    "title": "Pontos de reembolso imediato em Pequim",
+    "url": "https://english.beijing.gov.cn/travellinginbeijing/essentials/inboundtourismfacilitationmeasures/202603/t20260325_4566178.html",
+    "publisher": "Governo Municipal de Pequim",
+    "checked": "2026-10-04",
+    "note": "Atualização de março de 2026; rede e procedimentos podem aumentar ou mudar."
+  },
+  {
+    "id": "life-uefood",
+    "title": "Importação pessoal de produtos animais na UE",
+    "url": "https://food.ec.europa.eu/animals/animal-products-movements/personal-imports_en",
+    "publisher": "Comissão Europeia — Food Safety",
+    "checked": "2026-10-04",
+    "note": "Proibições e exceções para bagagem e correio; verificar categoria exata do alimento."
+  },
+  {
+    "id": "life-healththu",
+    "title": "Saúde e hospital universitário",
+    "url": "https://www.tsinghua.edu.cn/en/Campus/Student_Life/Health___Wellness.htm",
+    "publisher": "Tsinghua University",
+    "checked": "2026-10-04",
+    "note": "Identificação para consulta, hospital e contactos publicados; reconfirmar à chegada."
+  },
+  {
+    "id": "life-insurancethu",
+    "title": "Seguro de saúde de estudantes internacionais",
+    "url": "https://is.tsinghua.edu.cn/info/1184/1277.htm",
+    "publisher": "Tsinghua — International Students & Scholars Center",
+    "checked": "2026-10-04",
+    "note": "Requisito universitário e procedimento publicados; apólice, valores e canais de 2027 por confirmar."
+  },
+  {
+    "id": "life-fcdo-health",
+    "title": "China: cuidados de saúde e medicamentos",
+    "url": "https://www.gov.uk/foreign-travel-advice/china/health",
+    "publisher": "UK Foreign, Commonwealth & Development Office",
+    "checked": "2026-10-04",
+    "note": "Informação geral de saúde; regras de entrada e assistência consular britânica não são transpostas para portugueses."
+  },
+  {
+    "id": "life-emergency",
+    "title": "Números de emergência na China",
+    "url": "https://english.beijing.gov.cn/travellinginbeijing/quickguideontravelservices/traveltips/202108/t20210811_2466839.html",
+    "publisher": "Governo Municipal de Pequim",
+    "checked": "2026-10-04",
+    "note": "110 polícia, 119 bombeiros, 120 ambulância, 122 acidentes rodoviários."
+  },
+  {
+    "id": "life-embaixada",
+    "title": "Representação de Portugal na China",
+    "url": "https://consular-protection.ec.europa.eu/representation-offices/portugal-pt-representation-china-cn-0_en",
+    "publisher": "Comissão Europeia — Consular Protection",
+    "checked": "2026-10-04",
+    "note": "Diretório oficial; telefone geral, não garante serviço consular 24 horas. Site da embaixada recusou consulta automática."
+  },
+  {
+    "id": "life-embaixada-mfa",
+    "title": "Embaixada de Portugal: morada e contactos",
+    "url": "https://www.mfa.gov.cn/web/lbfw_673061/wgzhslgjgxx/201704/t20170425_7562730.shtml",
+    "publisher": "Ministério dos Negócios Estrangeiros da China",
+    "checked": "2026-10-04",
+    "note": "Diretório diplomático oficial com morada, telefone e emails; reconfirmar contactos diretamente com a embaixada."
+  },
+  {
+    "id": "life-mental",
+    "title": "Marcações no Center for Psychological Development",
+    "url": "https://www.tsinghua.edu.cn/en/info/1346/10528.htm",
+    "publisher": "Tsinghua University",
+    "checked": "2026-10-04",
+    "note": "Apoio psicológico a estudantes; canais e disponibilidade em inglês por reconfirmar em 2027."
+  },
+  {
+    "id": "life-issc",
+    "title": "Contactos do ISSC",
+    "url": "https://is.tsinghua.edu.cn/About/Contact_Us.htm",
+    "publisher": "Tsinghua — International Students & Scholars Center",
+    "checked": "2026-10-04",
+    "note": "Inclui equipa para estudantes sem grau e morada; confirmar categoria do intercâmbio."
+  },
+  {
+    "id": "life-smoking",
+    "title": "Regulamento de controlo do tabaco em Pequim",
+    "url": "https://www.beijing.gov.cn/zhengce/dfxfg/202111/t20211103_2528426.html",
+    "publisher": "Governo Municipal de Pequim",
+    "checked": "2026-10-04",
+    "note": "Texto legal chinês: espaços interiores públicos, trabalho, transportes e determinados exteriores."
+  },
+  {
+    "id": "life-alergia-alimentos",
+    "title": "Alergia alimentar: prevenção e preparação",
+    "url": "https://www.nhs.uk/conditions/food-allergy/",
+    "publisher": "NHS",
+    "checked": "2026-10-04",
+    "note": "Informação médica geral sobre alergias, etiquetas e restaurantes; plano individual deve ser definido com um profissional."
+  },
+  {
+    "id": "life-tax2026",
+    "title": "Atualização nacional do reembolso fiscal em 2026",
+    "url": "https://www.chinatax.gov.cn/eng/c101269/c5250095/content.html",
+    "publisher": "State Taxation Administration",
+    "checked": "2026-10-04",
+    "note": "Atualização de maio de 2026, aplicável a partir de julho: inclui janela de 28 dias para reembolso imediato. Não confundir com regime geral."
+  },
+  {
+    "id": "life-seguro-cdc",
+    "title": "Seguro de viagem, saúde e evacuação",
+    "url": "https://www.cdc.gov/yellow-book/hcp/health-care-abroad/travel-insurance.html",
+    "publisher": "CDC — Yellow Book 2026",
+    "checked": "2026-10-04",
+    "note": "Comparar cobertura, condições e evacuação; não recomenda uma seguradora específica."
+  },
+  {
+    "id": "life-medicacao-cdc",
+    "title": "Viajar com medicamentos proibidos ou restringidos",
+    "url": "https://www.cdc.gov/yellow-book/hcp/travelers-with-additional-considerations/traveling-with-prohibited-or-restricted-medications.html",
+    "publisher": "CDC — Yellow Book 2026",
+    "checked": "2026-10-04",
+    "note": "Documentação, legalidade no destino e embalagens; não certifica a admissão de um medicamento concreto."
+  },
+  {
+    "id": "life-consulta-cdc",
+    "title": "Consulta antes da viagem",
+    "url": "https://www.cdc.gov/yellow-book/hcp/preparing-international-travelers/the-pre-travel-consultation.html",
+    "publisher": "CDC — Yellow Book 2026",
+    "checked": "2026-10-04",
+    "note": "Consulta individualizada e revisão de interações entre medicamentos."
+  },
+  {
+    "id": "life-alergias-viagem",
+    "title": "Preparação do viajante com alergia grave",
+    "url": "https://www.cdc.gov/yellow-book/hcp/travelers-with-additional-considerations/severely-allergic-travelers.html",
+    "publisher": "CDC — Yellow Book 2026",
+    "checked": "2026-10-04",
+    "note": "Preparação clínica, cartões de comunicação e medicação de emergência. Traduções do site são exemplos, não cartões clínicos individuais."
+  }
+]
