@@ -9,7 +9,8 @@ console.log(mode==='allow'?'Telemóvel permitido na próxima publicação.':'Ape
 if(process.argv.includes('--publish')){
  const git=(args,options={})=>execFileSync('git',args,{cwd:root,stdio:'inherit',...options});
  const diff=spawnSync('git',['diff','--exit-code','--quiet','--','access.config.json'],{cwd:root});
- if(diff.status===0)console.log('A configuração já está publicada no Git.');
- else if(diff.status===1){git(['add','--','access.config.json']);git(['commit','--only','-m',mode==='allow'?'Allow mobile access to the hosted guide':'Restrict the hosted guide to desktop','--','access.config.json']);git(['push','origin','main']);console.log('Enviado ao GitHub. O Vercel publica automaticamente a alteração.');}
+ if(diff.status===0)console.log('A configuração já está guardada no Git.');
+ else if(diff.status===1){git(['add','--','access.config.json']);git(['commit','--only','-m',mode==='allow'?'Allow mobile access to the hosted guide':'Restrict the hosted guide to desktop','--','access.config.json']);}
  else throw Error('Não foi possível verificar o repositório.');
+ git(['push','origin','main']);console.log('Enviado ao GitHub. O Vercel publica automaticamente as alterações.');
 }
